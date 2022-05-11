@@ -1,13 +1,14 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 /service_key.json
-/scouting/*.json
-/backup.json
-/pit/*.json
-/compiled-scouting/*.json
-/compiled-pit/*.json
-/compiled-scouting/*.csv
-/compiled-pit/*.csv
+# Uncomment to ignore all scouting files
+# /scouting/*.json
+# /backup.json
+# /pit/*.json
+# /compiled-scouting/*.json
+# /compiled-pit/*.json
+# /compiled-scouting/*.csv
+# /compiled-pit/*.csv
 # compiled output
 /dist
 /tmp
