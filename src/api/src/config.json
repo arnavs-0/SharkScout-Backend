@@ -1,7 +1,7 @@
 {
-  "Working_Directory": "D:\\scouting\\scouting\\offline-server\\src\\api\\scouting",
-  "Target_JSON": "D:\\scouting\\scouting\\offline-server\\src\\api\\compiled-scouting\\compiled.json",
-  "Target_CSV": "D:\\scouting\\scouting\\offline-server\\src\\api\\scouting\\csv\\compiled.csv",
+  "Working_Directory": "path\\to\\src\\api\\scouting",
+  "Target_JSON": "path\\to\\src\\api\\compiled-scouting\\compiled.json",
+  "Target_CSV": "path\\to\\src\\api\\scouting\\csv\\compiled.csv",
   "Label_Order": [
     "uid",
     "team",
