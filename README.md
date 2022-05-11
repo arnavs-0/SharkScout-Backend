@@ -1,6 +1,7 @@
 # 226 Scouting Database + API
 
 ## Description and Installation Instructions in Progress
+### SharkScout PWA Coming Soon 🦈
 
 ## Getting Started with Create React App
 
