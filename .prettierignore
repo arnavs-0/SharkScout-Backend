@@ -1,0 +1,17 @@
+# Ignore artifacts:
+build
+coverage
+.vscode-test/
+out/
+dist/
+test-fixtures/
+node_modules/
+.idea/
+.github/
+public/
+yarn.lock
+setupTests.js
+reportWebVitals.js
+index.js
+App.test.js
+index.css
