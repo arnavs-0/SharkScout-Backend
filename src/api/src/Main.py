@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import sys
+import pandas as pd
 
 from DataErrors import *
 from DataManagement import *
@@ -72,9 +73,7 @@ if __name__ == '__main__':
     logging.info("Successfully Created Compiled JSON")
 
     # Compile all Data into one CSV
-
-    compositor = CSVCompositor(target_csv, label_order)
-    compositor.convert_json_to_csv(json.dumps(json.loads(open(target_json, "r").read())))
-    compositor.save_file()
+    pd.read_json(target_json).to_csv(target_csv, index=False)
+    
     logging.info("Successfully Created Compiled CSV")
     logging.info("Done")
