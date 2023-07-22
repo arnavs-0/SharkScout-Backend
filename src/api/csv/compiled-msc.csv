@@ -1,0 +1,440 @@
+match,team,Alliance Color,Scouter Name,Auton Cones Lower,Auton Cubes Lower,Auton Cones Mid,Auton Cubes Mid,Auton Cones Upper,Auton Cubes Upper,Auton Charge Station,Teleop Cones Lower,Teleop Cubes Lower,Teleop Cones Mid,Teleop Cubes Mid,Teleop Cones Upper,Teleop Cubes Upper,Piece Pickup,Charge Station,Under Defense,Other Notes,Defense Rating,Defense Notes,Robot Rating,Auton Points,Teleop Points,Total Points
+12,107 Team R.O.B.O.T.I.C.S.,R2,Sanjay,0,0,0,0,0,1,Not Attempted,1,0,0,0,3,1,Double Substation,Docked,0 - Was not under heavy defense,"rapid, erratic driving that nearly tipped them and others over, blocked other teammates, good cycle ",0 - did not play defense,"scoring focused, any defense played was not on purpose",2 - contribute to score or elite defense,6,22,28
+17,107 Team R.O.B.O.T.I.C.S.,R1,Ishan,0,0,0,0,0,1,Not Attempted,1,1,0,0,2,1,Floor,Engaged,3 - Continues to score normally,Defense didn’t affect them,0 - did not play defense,They played offense ,2 - contribute to score or elite defense,6,19,25
+2,107 Team R.O.B.O.T.I.C.S.,R2,Pranav S,0,0,0,0,0,1,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,"Seemed to be broken, must have lost radio connection ",0 - did not play defense,Did not play at all,1 - does not contribute much to scoring,6,0,6
+24,107 Team R.O.B.O.T.I.C.S.,R3,Ishan & Athrv,0,0,0,0,0,1,Engaged,0,5,0,0,0,0,Floor,Engaged,2 - Scoring impacted by defense,"Lost a lot of time mid game due to good defense from the blue alliance, almost flipped cause I’d def",0 - did not play defense,Only played offense,1.5 - not a strong scorer or defender,18,10,28
+29,107 Team R.O.B.O.T.I.C.S.,R1,Mahima,0,0,0,0,0,1,Not Attempted,0,0,2,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"intake at double sub is slow, and alignment at grid is slow as well. Dropped 2 cubes ",0 - did not play defense,Just scored,1.5 - not a strong scorer or defender,6,16,22
+36,107 Team R.O.B.O.T.I.C.S.,B3,David Chen ,0,0,0,0,0,1,Engaged,0,0,1,1,2,0,Both,Engaged,0 - Was not under heavy defense,Goes up charge station sideways. Intake takes in sideways but not effective. 16 second cycle. Double,0 - did not play defense,,1.5 - not a strong scorer or defender,18,16,34
+43,107 Team R.O.B.O.T.I.C.S.,B2,,0,0,0,0,0,1,Not Attempted,0,0,2,1,1,0,N/A,Engaged,3 - Continues to score normally,Chasis bot was ramming them but they weren’t effected by it.,2 - prevented some cargo,"They stalled a few robots from collecting and scoring pieces, slow cycle time.",2 - contribute to score or elite defense,6,14,20
+11,1481 The Riveters,R2,Pranav S,0,0,0,0,0,0,Not Attempted,0,1,0,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"Prefers cones, decent cycle time ",0 - did not play defense,None,2 - contribute to score or elite defense,0,15,15
+16,1481 The Riveters,B3,Mahima,1,0,0,0,0,0,Docked,0,0,0,0,2,2,Double Substation,Not Attempted,0 - Was not under heavy defense,"Scored fast at grid, but dropped a cone once. Didn’t make it to the charge station in time",0 - did not play defense,,2.5 - highly competitive robot,11,20,31
+30,1481 The Riveters,B3,David Chen ,0,0,0,0,0,0,Not Attempted,2,0,0,1,2,1,Both,Engaged,0 - Was not under heavy defense,"16 sec cycle
+Robot did not place cone it had during auto rather scoring it in tele
+Triple engage",0 - did not play defense,,1.5 - not a strong scorer or defender,0,22,22
+34,1481 The Riveters,B3,David Chen ,0,0,0,0,0,0,Not Attempted,0,0,2,1,0,0,Both,Not Attempted,0 - Was not under heavy defense,Two piece failed auto. Arm was caught in alliance member. 15 sec cycle. Robot start jitter endgame,0 - did not play defense,,1.5 - not a strong scorer or defender,0,9,9
+7,1481 The Riveters,B1,David Chen ,0,0,0,0,1,0,Not Attempted,0,0,1,0,2,2,Double Substation,Engaged,2 - Scoring impacted by defense,"Tried for another high piece auto fail
+12 sec cycle 
+Hard for them to outmaneuver opp
+Triple engage",0 - did not play defense,,2 - contribute to score or elite defense,6,23,29
+22,1481,Blue,Chinmay N.,0,0,1,0,0,0,Not Attempted,0,1,0,0,2,2,Double Substation,Engaged,0 - Was not under heavy defense,Robot often struggled to pick up and drop in cones & cubes on upper level; very fast,0 - did not play defense,No defense,2 - contribute to score or elite defense,4,32,36
+11,1684 The Chimeras,R1,Ishan,0,0,0,0,0,0,Not Attempted,0,1,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,They were flipped over majority of the match,0 - did not play defense,,1 - does not contribute much to scoring,0,2,2
+15,1684 The Chimeras,B3,Mahima ,0,0,1,1,0,0,Not Attempted,1,0,2,1,0,0,Double Substation,Failed,0 - Was not under heavy defense,"Comm problem till 50 sec left, scored 4 game pieces, and then flipped while driving over to climb.",0 - did not play defense,,2 - contribute to score or elite defense,8,11,19
+27,1684 The Chimeras,R1,Mahima,0,0,0,0,0,0,Engaged,0,0,1,0,3,1,Double Substation,Engaged,0 - Was not under heavy defense,"Auton failed. Robot was disabled for like half the game, so all scoring data was in 50 sec",0 - did not play defense,"No defense, just scored. ",2.5 - highly competitive robot,12,23,35
+31,1684 The Chimeras,B3,David Chen ,0,0,0,0,1,0,Engaged,0,0,0,6,0,1,Double Substation,Not Attempted,0 - Was not under heavy defense,"Upside down cone grab auto
+11 sec cycle
+Cones upright at double sub
+Fast lineup and placing piece",0 - did not play defense,,3 - likely captain on 1st or 2nd alliance,18,23,41
+38,1684 The Chimeras,B1,Devesh Reddy,0,0,0,0,0,0,Engaged,0,0,1,1,1,0,Double Substation,Engaged,2 - Scoring impacted by defense,,2 - prevented some cargo,Maintain cargo and blocked the red alliance side,2 - contribute to score or elite defense,12,11,23
+5,1684 The Chimeras,R2,Sanjay ,0,1,1,0,0,0,Not Attempted,0,0,2,0,4,0,Double Substation,Not Attempted,3 - Continues to score normally,"movement was sleek, cycle time was under 10 sec, claw allowed for easy scoring picking cones upright",0 - did not play defense,scoring focused,2.5 - highly competitive robot,7,26,33
+1,1701 RoboCubs,B2,Varsha Rajesh,0,1,0,0,0,1,Not Attempted,0,0,0,2,4,1,Double Substation,Not Attempted,0 - Was not under heavy defense,"8 second cycle time, slow at scoring, grips cones upright, failed picking up a cube in auton",0 - did not play defense,,2 - contribute to score or elite defense,9,31,40
+17,1701 RoboCubs,B3,Mahima,0,1,0,0,0,1,Not Attempted,0,4,0,1,0,1,Both,Not Attempted,3 - Continues to score normally,"Slow at in taking, especially from the ground but scoring is fast. Driving is good.",0 - did not play defense,,2 - contribute to score or elite defense,9,16,25
+22,1701 RoboCubs,R2,Sanjay,0,0,0,0,0,1,Not Attempted,0,1,1,1,3,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"good cycle time, bout 10-12 seconds, maneuvered and scored great, mainly cones but can do cubes good",0 - did not play defense,scoring focused,2.5 - highly competitive robot,6,23,29
+32,1701 RoboCubs,B3,David Chen ,1,0,0,0,0,0,Not Attempted,1,1,2,1,2,1,Double Substation,Engaged,0 - Was not under heavy defense,Dropped cube picked up during auto. 3 piece failed. 12 second cycle. Triple engage. Fast and agile,0 - did not play defense,,2.5 - highly competitive robot,3,28,31
+40,1701 RoboCubs,R2,Ananya K,0,0,0,0,1,0,Docked,1,1,0,1,2,1,Both,Not Attempted,0 - Was not under heavy defense,Medium speed intake. Mostly accurate piece placement. Continued scoring after endgame whistle.,0 - did not play defense,,2 - contribute to score or elite defense,14,22,36
+9,1701 RoboCubs,R1,Ishan,0,0,0,0,1,0,Not Attempted,0,2,2,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,No one was defending them every was offensive.,0 - did not play defense,Didn’t play defense just offense ,1.5 - not a strong scorer or defender,6,13,19
+14,1940 Tech Tigers 1940,R2,Sanjay,0,0,0,1,0,0,Not Attempted,0,1,0,1,0,0,Floor,Engaged,0 - Was not under heavy defense,"intake impeded pickup and cycle time, piece scoring made them fly out, movement fine but bad scoring",0 - did not play defense,scoring focused ,1.5 - not a strong scorer or defender,4,5,9
+2,1940 Tech Tigers 1940,B1,David Chen ,0,0,0,1,0,0,Not Attempted,0,1,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,"Dced during tele but came back around 20 seconds later then dced for rest of match
+Shoots cubes ",0 - did not play defense,,1 - does not contribute much to scoring,4,2,6
+26,1940 Tech Tigers 1940,B1,krrish,0,0,1,0,0,0,Not Attempted,0,1,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"took 40 seconds to place a cube, intake broken?
+sitting duck for most of game",0 - did not play defense,none,1 - does not contribute much to scoring,4,2,6
+31,1940 Tech Tigers 1940,B2,Arunima,0,0,0,0,0,0,Not Attempted,0,4,0,2,0,0,Double Substation,Failed,0 - Was not under heavy defense,"Missed nodes often when placing
+Cubes only in lower",1 - ineffective defense,"Swerved around other bots 
+Did not stop other bots from scoring ",1.5 - not a strong scorer or defender,0,14,14
+40,1940 Tech Tigers 1940,R1,Chinmay Nair,0,0,0,0,0,0,Not Attempted,0,3,0,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Flung game pieces into zone
+Didnt move during auton",0 - did not play defense,,1.5 - not a strong scorer or defender,0,6,6
+45,1940 Tech Tigers 1940,R1,krrish,0,0,0,1,0,1,Not Attempted,0,4,0,0,0,0,Both,Engaged,0 - Was not under heavy defense,"somewhat slow, cannot do top areas",0 - did not play defense,no defnese ,1.5 - not a strong scorer or defender,10,8,18
+16,226 Hammerheads,R2,Sanjay,0,0,0,0,1,0,Engaged,0,0,0,0,0,4,Double Substation,Engaged,3 - Continues to score normally,"failed to score held piece once, cycle time great, maneuvered good around others, auton perfect",0 - did not play defense,scoring focused,2.5 - highly competitive robot,18,20,38
+31,226 Hammerheads,R3,Reajul,0,0,0,0,0,1,Docked,2,0,0,0,3,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Driving could be faster, cones dropped to lower nodes, quick intake, can dodge robots",0 - did not play defense,Focused on collecting game pieces from substations,2 - contribute to score or elite defense,14,19,33
+37,226 Hammerheads,R2,Ananya K,0,0,0,0,0,0,Not Attempted,0,5,0,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Gripper was lose, stopped using it mid match. Inaccurate piece placement.",0 - did not play defense,Took quite some time to readjust after being bumped into.,2 - contribute to score or elite defense,0,10,10
+41,226 Hammerheads,B1,Devesh Reddy,0,0,1,0,0,0,Engaged,0,0,2,0,0,0,Double Substation,Engaged,3 - Continues to score normally,Our robots arm was kinda not working but manages to score,2 - prevented some cargo,Maintain cargo,2.5 - highly competitive robot,16,6,22
+49,226 Hammerheads,R1,Ananya K,0,0,0,0,1,0,Not Attempted,0,0,0,0,2,2,Double Substation,Engaged,3 - Continues to score normally,Quick intake of game pieces. Took time to position intake to accurately place pieces. ,1 - ineffective defense,Able to collide with other robots but only briefly.,2 - contribute to score or elite defense,6,20,26
+5,226 Hammerheads,B3,Shamanth Shastry,0,1,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,"Auton screwed intake up
+Cube got jammed 
+Engage was not great either, v slow on station",1 - ineffective defense,"Should’ve switched to defense much earlier, but rly slow lateral movement caused ineffectiveness",1 - does not contribute much to scoring,3,0,3
+9,226 Hammerheads,R2,Sanjay,0,0,0,0,1,0,Docked,0,1,2,1,0,0,Both,Not Attempted,0 - Was not under heavy defense,"smooth movement, both cube and cone intake performed well, all around polished robot ",0 - did not play defense,scoring focused,2.5 - highly competitive robot,14,11,25
+3,226,Blue,Pranav Maringanti,0,0,0,0,1,0,Not Attempted,2,0,0,0,0,2,Double Substation,Engaged,3 - Continues to score normally,"Error before match, a bit slow driving, dropped cargo when extending arm",0 - did not play defense,,2 - contribute to score or elite defense,6,24,30
+10,2619 The Charge,R1,Ishan,1,0,0,0,0,0,Not Attempted,2,0,0,0,1,1,Double Substation,Engaged,0 - Was not under heavy defense,Nobody defended against them,0 - did not play defense,Played offense ,1.5 - not a strong scorer or defender,3,14,17
+24,2619 The Charge,B2,David Chen ,0,0,0,0,1,1,Docked,1,0,0,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Pieces drop out when bumped 
+Very slow lineup at double sub (spent 15+ seconds)
+Triple engage ",0 - did not play defense,,1.5 - not a strong scorer or defender,20,5,25
+28,2619 The Charge,R2,Sanjay,0,0,0,0,1,0,Engaged,1,0,0,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"good scoring and movement sleek, but took long time at substation picking up pieces",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,18,12,30
+3,2619 The Charge,B3,Shamanth Shastry,0,0,0,0,1,1,Engaged,0,0,0,0,2,1,Both,Engaged,0 - Was not under heavy defense,"Intake and placing mechanism is slow - slower cycle
+TIPPY caused teammate tip overduring engage
+
+",0 - did not play defense,,1.5 - not a strong scorer or defender,24,15,39
+35,2619 The Charge,R3,Sanjay,0,0,0,0,1,0,Engaged,0,0,1,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"good movement, took quite a bit of time at the substation to pickup cones, scoring was accurate",0 - did not play defense,didn’t play defense,2 - contribute to score or elite defense,18,18,36
+45,2619 The Charge,B1,Yusuf Tariq,0,0,0,0,0,0,Docked,0,0,1,0,0,0,Floor,Engaged,3 - Continues to score normally,decent movement ,2 - prevented some cargo,basically blocked the other bots,2 - contribute to score or elite defense,8,3,11
+49,2619 The Charge,R3,Chinmay N.,0,0,0,0,1,1,Failed,1,0,0,0,1,0,Double Substation,Failed,0 - Was not under heavy defense,"Struggles to balance on charge station and position gripper arm
+Quick with placing in auton",0 - did not play defense,None,1 - does not contribute much to scoring,12,7,19
+2,2619,Blue,Pranav Maringanti,0,0,0,0,1,0,Engaged,1,0,0,0,0,0,Both,Engaged,0 - Was not under heavy defense,"Damaged cube, 2 cymbals gripper mech, very unreliable cargo pick up mech (10sec to pick up) drops",0 - did not play defense,,2 - contribute to score or elite defense,18,12,30
+10,3175 Knight Vision,B1,David Chen ,0,1,0,0,1,0,Not Attempted,0,0,0,0,0,1,Floor,Not Attempted,0 - Was not under heavy defense,"Missed one piece during auto
+Dced after a collision ",0 - did not play defense,,1 - does not contribute much to scoring,9,5,14
+15,3175 Knight Vision,B2,Varsha Rajesh,0,1,0,0,1,1,Not Attempted,0,2,0,0,3,1,Floor,Engaged,0 - Was not under heavy defense,"8 sec cycle time, controlled driving, handles defense very wheel, fast robot ",1 - ineffective defense,,2.5 - highly competitive robot,15,24,39
+24,3175 Knight Vision,R1,Mahima,0,1,0,0,1,1,Not Attempted,0,3,0,0,2,0,Both,Engaged,0 - Was not under heavy defense,"Fast and good driving, picked up from floor and station fast and scored fast. cube stuck in bot tho",0 - did not play defense,Just scored,2 - contribute to score or elite defense,15,16,31
+28,3175 Knight Vision,R3,Athrv,0,1,0,0,1,1,Not Attempted,0,4,0,1,0,2,Both,Engaged,3 - Continues to score normally,"Intake with rollers, spits out
+Amazing cycle time
+Fast and stable",2 - prevented some cargo,"Focused mainly on offense, but blocked robots on the way back
+",3 - likely captain on 1st or 2nd alliance,15,21,36
+34,3175 Knight Vision,B2,Arunima and Athrv ,0,0,0,0,1,1,Not Attempted,0,2,0,1,3,0,Double Substation,Engaged,3 - Continues to score normally,"Good cycle time
+Clamp arm mechanism
+Swerve drive
+",2 - prevented some cargo,"Hit by other alliance by still stable
+Blocked other robots ",2 - contribute to score or elite defense,12,22,34
+41,3175 Knight Vision,R1,Surya Jeeda,0,0,0,0,1,0,Engaged,0,2,0,0,2,1,Both,Not Attempted,0 - Was not under heavy defense,The robot was agile and scored efficiently. It fell over but was pushed back up.,0 - did not play defense,none,2 - contribute to score or elite defense,18,19,37
+6,3175 Knight Vision,R3,Mahima,0,1,0,0,1,0,Not Attempted,0,3,1,1,3,1,Floor,Engaged,0 - Was not under heavy defense,"Very fast in lineup at single substation, grid, and intake at floor. Intended auton didn’t work.",0 - did not play defense,"No defense, just scoring.",3 - likely captain on 1st or 2nd alliance,9,32,41
+1,3322 Eagle Evolution,B1,David Chen ,0,0,1,0,0,0,Engaged,1,2,1,0,0,0,Both,Engaged,0 - Was not under heavy defense,"Slow engage during auto
+Slow robot overall
+Highest they can score is cone mid
+Double engage ",0 - did not play defense,,2 - contribute to score or elite defense,16,9,25
+20,3322 Eagle Evolution,B1,krrish,0,0,1,0,0,0,Not Attempted,0,3,1,1,0,1,Floor,Engaged,0 - Was not under heavy defense,"fast cycling time
+mostly cube scorer (since that seems to be easier to pickup)
+launching mech4cube",0 - did not play defense,"no defense, apart from some blocking every now and then",2.5 - highly competitive robot,4,17,21
+26,3322 Eagle Evolution,B3,,0,0,0,0,0,1,Engaged,0,0,3,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Slow pick up mech, sometimes catapoults, only scores middle",0 - did not play defense,,2 - contribute to score or elite defense,18,9,27
+31,3322 Eagle Evolution,R2,Mahima,0,0,1,0,0,0,Not Attempted,0,1,3,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Fast driving and intake, but takes like 6-8 sec just positioning piece at grid.",0 - did not play defense,Just scored.,1.5 - not a strong scorer or defender,4,14,18
+36,3322 Eagle Evolution,R3,Sanjay,0,0,1,0,0,0,Engaged,0,1,1,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"dropped pieces a couple times, quick substation turnaround, scoring placement and movement was good ",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,16,15,31
+43,3322 Eagle Evolution,R2,Ananya K,0,0,1,0,0,0,Engaged,0,3,1,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Intake of pieces was slow because positioning at the double ss took time. Slippery on charging stati,0 - did not play defense,Frequently bumped into own alliances robots(bad driving).,2 - contribute to score or elite defense,16,12,28
+48,3322 Eagle Evolution,B2,Ananya K,0,0,1,0,0,0,Engaged,0,1,1,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Inaccurately placed cones on rods multiple times. Medium speed intake of pieces.,1 - ineffective defense,Collided with opposite alliance robot.,1.5 - not a strong scorer or defender,16,8,24
+7,3322 Eagle Evolution,B3,Shamanth Shastry,0,0,1,0,0,0,Not Attempted,0,3,0,1,0,0,Floor,Engaged,0 - Was not under heavy defense,"Not great scoring, just plays soccer with cubes and once shot Good at engaging and defense tho",2 - prevented some cargo,"Solid defense in the middle of the field, pushed without pinning or wrongly going in the community",1.5 - not a strong scorer or defender,4,9,13
+20,3618 Petoskey Paladins,R3,Athrv & Ishan,0,0,0,0,0,1,Not Attempted,1,0,0,0,2,0,Double Substation,Docked,1 - Cannot score under heavy defense,"Arm keeps dropping cone
+Long cycle time
+Clamp arm",0 - did not play defense,"Sent flying when hit
+Got restrained by 2 blue alliance robots for 20 sec",1.5 - not a strong scorer or defender,6,12,18
+27,3618 Petoskey Paladins,B2,David Chen,0,0,0,0,0,1,Not Attempted,0,0,2,1,2,0,Double Substation,Docked,0 - Was not under heavy defense,"15 sec cycle 
+Arm is pretty slow ",0 - did not play defense,,2 - contribute to score or elite defense,6,19,25
+33,3618 Petoskey Paladins,R3,Reajul,0,0,0,0,0,1,Not Attempted,0,0,0,1,0,1,Floor,Engaged,0 - Was not under heavy defense,"Very slow robot, slow intake too, but quickly engaged, spends too much time trying to pick up cube",0 - did not play defense,"Focused on collecting cubes, blocked some robots unintentionally ",1.5 - not a strong scorer or defender,6,8,14
+40,3618 Petoskey Paladins,R3,,0,0,0,0,0,1,Not Attempted,0,0,0,0,4,0,Double Substation,Engaged,0 - Was not under heavy defense,"took multiple attempts to pick up from substation, dropped pieces, took time to score pieces",0 - did not play defense,scoring focused,1.5 - not a strong scorer or defender,6,20,26
+44,3618 Petoskey Paladins,R1,krrish,0,0,0,0,0,1,Not Attempted,2,0,0,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"takes forever to get one cone, bad movement and looks flimsy - reconnect staying away",0 - did not play defense,none,1 - does not contribute much to scoring,6,4,10
+5,3618 Petoskey Paladins,R1,Ishan,0,0,0,0,0,0,Engaged,0,1,1,1,3,0,Double Substation,Engaged,1 - Cannot score under heavy defense,Dropped their cone after a robot bumped into it which set them back about 15-20 seconds ,0 - did not play defense,"No defense, tried playing offense but got caught in a circle of other robots",2 - contribute to score or elite defense,12,23,35
+9,3618 Petoskey Paladins,B1,David Chen ,0,0,0,0,0,0,Not Attempted,1,1,0,0,0,1,Both,Engaged,0 - Was not under heavy defense,"SUPER slow auto failed scoring cube 
+Drops piece when bumping ",0 - did not play defense,,1 - does not contribute much to scoring,0,9,9
+19,3655 Tractor Technicians,R1,Mahima,0,0,0,0,1,1,Not Attempted,1,0,2,1,2,1,Floor,Engaged,3 - Continues to score normally,"Very fast at scoring upper for pieces, a bit slower for mid node. Smooth auton, and fast cycle time",0 - did not play defense,Only scored.,2.5 - highly competitive robot,12,26,38
+28,3655 Tractor Technicians,R1,Mahima,0,0,0,0,1,0,Not Attempted,0,0,2,1,2,0,Both,Engaged,3 - Continues to score normally,"Great driving, picked up cones and cubes fast and scored fast. Good at correcting alliance mistakes.",0 - did not play defense,Just scored.,2.5 - highly competitive robot,6,19,25
+4,3655 Tractor Technicians,B1,David Chen ,0,0,0,0,1,0,Not Attempted,0,1,2,1,2,2,Both,Not Attempted,2 - Scoring impacted by defense,"Tried get another cube in auto failed
+10 sec cycle 
+Hard to score if opp pushes cube on ground away",0 - did not play defense,,2.5 - highly competitive robot,6,31,37
+43,3655 Tractor Technicians,B3,David Chen ,0,0,0,0,1,1,Not Attempted,1,0,2,0,2,1,Double Substation,Not Attempted,3 - Continues to score normally,14 second cycle. Fast and agile. Drops cones at single sub a lot. Can outmaneuver other robots ,0 - did not play defense,,2 - contribute to score or elite defense,12,23,35
+8,3655 Tractor Technicians,R1,Ishan,0,0,0,0,1,0,Not Attempted,0,1,0,0,3,3,N/A,Not Attempted,0 - Was not under heavy defense,Not under defense p.s they took cargo from single substation ,0 - did not play defense,Only played offense.,2 - contribute to score or elite defense,6,32,38
+23,3655,Blue,Pranav Maringanti,0,0,0,0,0,1,Not Attempted,0,0,1,0,3,0,Double Substation,Not Attempted,2 - Scoring impacted by defense,"Was defended against, very fast and fast cargo drop. Dropped last cargo and didn’t get ranking point",0 - did not play defense,,2 - contribute to score or elite defense,6,18,24
+14,3688 Norsemen,B2,David Chen ,0,0,0,0,0,1,Engaged,2,0,0,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"Exot community balance auto
+15 second cycle
+Double engage
+Switched from high to low midgame ",0 - did not play defense,,2 - contribute to score or elite defense,18,14,32
+23,3688 Norsemen,R2,Sanjay,0,0,0,0,0,1,Engaged,1,0,0,0,3,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"cycle time 15 sec on avg, took a bit to pick up pieces and score but good maneuvering made up for it",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,18,17,35
+30,3688 Norsemen,B1,Pranav Maringanti,0,0,0,0,0,1,Engaged,1,0,0,0,4,0,Double Substation,Engaged,0 - Was not under heavy defense,"Cones Only, VERY fast movement, never drops, very reliable pick up grippe",0 - did not play defense,,2.5 - highly competitive robot,18,22,40
+40,3688 Norsemen,B3,David Chen ,0,0,0,0,0,1,Not Attempted,0,0,0,0,2,1,Both,Not Attempted,0 - Was not under heavy defense,18 sec cycle. Dced with ~45 seconds left.,0 - did not play defense,,1.5 - not a strong scorer or defender,6,15,21
+44,3688 Norsemen,R2,Ananya K,0,0,0,0,0,1,Not Attempted,0,0,1,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,Quick intake and accurate piece placement. Had trouble climbing up charging station at end. ,0 - did not play defense,,2 - contribute to score or elite defense,6,16,22
+6,3688 Norsemen,R2,Pranav S,0,0,0,0,0,1,Engaged,0,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,Decent cycle time,0 - did not play defense,Nine,2 - contribute to score or elite defense,18,15,33
+1,3688,Blue,Pranav Maringanti,0,0,0,0,0,1,Engaged,0,0,1,0,2,0,Double Substation,Docked,0 - Was not under heavy defense,Takes around 3 seconds to load and same time to drop cargo. Fast and stable,0 - did not play defense,,2.5 - highly competitive robot,18,19,37
+26,3770 BlitzCreek,R2,Sanjay,0,0,0,0,1,0,Not Attempted,1,0,0,0,2,1,Double Substation,Engaged,0 - Was not under heavy defense,"quick cycle time but issues picking pieces up, scoring too. movement good and smooth, decent speed ",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,6,17,23
+30,3770 BlitzCreek,R1,Chinmay N.,0,0,0,0,1,0,Failed,0,0,1,0,2,1,Double Substation,Docked,0 - Was not under heavy defense,"Crashed with another robot during match
+Have some difficulty positioning their arm",0 - did not play defense,none,2 - contribute to score or elite defense,6,18,24
+36,3770 BlitzCreek,R2,Ananya K,0,0,0,0,1,0,Engaged,1,0,0,0,2,2,Double Substation,Engaged,0 - Was not under heavy defense,Slow movement up charge station(stopped for few secs). Fast gripper extension but slow placement. ,0 - did not play defense,Accidentally bumped into other robot but ineffective.,2 - contribute to score or elite defense,18,22,40
+45,3770 BlitzCreek,R3,Sanjay,0,0,0,0,1,0,Engaged,1,1,0,0,2,1,Double Substation,Engaged,0 - Was not under heavy defense,"good cycle time, effectively and quickly placed both cones and cubes, temp disconnected but engaged",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,18,19,37
+50,3770 BlitzCreek,B3,David Chen ,0,0,0,0,1,0,Engaged,0,1,1,1,1,0,Double Substation,Engaged,0 - Was not under heavy defense,Tippy. 16 second cycle. Triple engage. Robot is pretty slow,0 - did not play defense,,1.5 - not a strong scorer or defender,18,13,31
+9,3770 BlitzCreek,B3,Shamanth Shastry,0,0,0,0,1,0,Engaged,0,0,0,0,3,1,Double Substation,Engaged,1 - Cannot score under heavy defense,"Unnecessarily large extending angle 
+Rly slow cycle time 
+Decent engaging ",0 - did not play defense,,1.5 - not a strong scorer or defender,18,20,38
+15,3770,Red,Sparsh Shrivastava,0,0,0,0,0,0,Not Attempted,0,0,3,1,1,1,Double Substation,Docked,0 - Was not under heavy defense,,0 - did not play defense,,2 - contribute to score or elite defense,0,28,28
+13,4003 TriSonics,B1,Shamanth Shastry,0,0,0,0,1,0,Not Attempted,0,0,1,0,3,1,Both,Not Attempted,0 - Was not under heavy defense,"Elevator and linear slide moves smoothly 
+fail extending once 
+Engages wel
+Decent cycle tim
+Low2",0 - did not play defense,,2 - contribute to score or elite defense,6,23,29
+18,4003 TriSonics,B2,David Chen ,1,0,0,0,1,0,Not Attempted,1,2,0,0,4,0,Both,Not Attempted,0 - Was not under heavy defense,"14 second cycle 
+Robot is pretty agile ",0 - did not play defense,,2 - contribute to score or elite defense,9,26,35
+24,4003 TriSonics,B3,Pranav Maringanti,1,0,0,0,1,0,Not Attempted,0,0,2,1,1,2,Double Substation,Engaged,3 - Continues to score normally,"INSANE robot, 1sec< cargo pickup, 100% accuracy, can’t be defended, almost toppled a robot",0 - did not play defense,,3 - likely captain on 1st or 2nd alliance,9,24,33
+33,4003 TriSonics,R1,krrish,0,3,0,0,1,0,Not Attempted,0,0,0,0,2,3,Double Substation,Not Attempted,0 - Was not under heavy defense,"fast cycling and movement
+upright cone
+",0 - did not play defense,none,2.5 - highly competitive robot,15,25,40
+38,4003 TriSonics,R2,Ananya K,0,0,0,0,1,0,Engaged,1,1,1,1,0,2,Floor,Engaged,0 - Was not under heavy defense,Quick intake and placement of pieces. Struggled to get over field bump. Accurate piece placement. ,0 - did not play defense,,2.5 - highly competitive robot,18,20,38
+44,4003 TriSonics,B3,David Chen ,1,0,0,0,1,0,Not Attempted,1,1,2,1,1,2,Both,Not Attempted,0 - Was not under heavy defense,Grabbed a third piece in auto. 14-15 second cycle. Fast and agile.,0 - did not play defense,,2.5 - highly competitive robot,9,28,37
+49,4003 TriSonics,B2,Arunima,1,0,0,0,1,0,Not Attempted,1,1,0,0,2,0,Double Substation,Not Attempted,2 - Scoring impacted by defense,"good cycle time, roller intake claw for cubes",1 - ineffective defense,"Stable during collisions but pushed around easily, when hit drops cones",1.5 - not a strong scorer or defender,9,14,23
+7,4003 TriSonics,R2,Pranav S,0,0,0,0,1,0,Not Attempted,1,1,2,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Seemed to just fill i links, not creating new ones. Sort of like playing support. Has potential",0 - did not play defense,,2.5 - highly competitive robot,6,10,16
+19,4130 The Blue Devils,B1,krrish,0,0,0,0,0,0,Not Attempted,0,2,0,0,1,1,Double Substation,Failed,0 - Was not under heavy defense,"missed a top cone in auton
+upright cone placement 
+2 intake systems, arm and base gripper",0 - did not play defense,no defnese,2 - contribute to score or elite defense,0,14,14
+25,4130 The Blue Devils,B2,David Chen ,0,0,0,0,1,0,Engaged,0,0,0,1,2,0,Both,Engaged,0 - Was not under heavy defense,"17 second cycle 
+Robot is slow moving and intakint from ground takes long time 
+Double engage",0 - did not play defense,,1.5 - not a strong scorer or defender,18,13,31
+3,4130 The Blue Devils,R3,Mahima,0,0,0,0,1,0,Not Attempted,0,0,0,0,3,2,Both,Engaged,0 - Was not under heavy defense,"Better at picking pieces from ground, was slow at positioning in substation. Wobbly during endgame",0 - did not play defense,"No defense, just scored.",1.5 - not a strong scorer or defender,6,25,31
+33,4130 The Blue Devils,B1,Pranav Maringanti,0,0,0,0,1,0,Engaged,0,0,0,0,2,2,Double Substation,Engaged,0 - Was not under heavy defense,Slower but stable and doesn’t drop. Collision occurred and very close to tipping over,0 - did not play defense,,2 - contribute to score or elite defense,18,20,38
+37,4130 The Blue Devils,R1,krrish,1,1,0,0,0,1,Engaged,0,0,0,2,2,1,Both,Engaged,0 - Was not under heavy defense,"medium speed and cycling
+upright cone ",0 - did not play defense,mo,2 - contribute to score or elite defense,24,21,45
+43,4130 The Blue Devils,B1,Yusuf Tariq ,1,0,0,0,1,0,Engaged,0,0,0,0,0,0,Double Substation,Engaged,2 - Scoring impacted by defense,Terrible movement ,1 - ineffective defense,none,2 - contribute to score or elite defense,21,0,21
+14,4130,Red,Sparsh Shrivastava,0,0,0,0,1,0,Engaged,1,0,0,0,2,2,Both,Engaged,0 - Was not under heavy defense,,0 - did not play defense,,2 - contribute to score or elite defense,18,32,50
+15,4237 Team Lance-A-Bot,R2,Sanjay,1,0,0,0,0,0,Not Attempted,0,0,0,0,1,0,Double Substation,Docked,0 - Was not under heavy defense,"claw slammed into wall, broke, dropped pieces often before breaking, sabotaged team in auton ",2 - prevented some cargo,played some defense after claw break ,1 - does not contribute much to scoring,3,5,8
+21,4237 Team Lance-A-Bot,B2,David Chen ,0,0,0,0,1,0,Not Attempted,1,0,0,0,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Slow robot ovr (20 seconds+ cycle)
+Triple engage 
+",0 - did not play defense,,1 - does not contribute much to scoring,6,7,13
+3,4237 Team Lance-A-Bot,R1,Ishan,0,0,0,0,0,0,Engaged,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,"Their robot shut down and didn’t run majority of the game, their light was completely off.",0 - did not play defense,They also ran into another teammates robot at medium speed before their robot was shut down.,1 - does not contribute much to scoring,12,0,12
+33,4237 Team Lance-A-Bot,R2,Ananya K,0,0,0,0,1,0,Engaged,1,0,0,0,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Good driving but very slow extending and retracting gripper. Gripper was lose, dropped cone. ",0 - did not play defense,,2 - contribute to score or elite defense,18,7,25
+37,4237 Team Lance-A-Bot,B1,Devesh Reddy,0,0,0,0,0,0,Engaged,0,0,2,0,0,0,Double Substation,Engaged,2 - Scoring impacted by defense,,2 - prevented some cargo,Maintain cargo and blocked the robot,2 - contribute to score or elite defense,12,6,18
+42,4237 Team Lance-A-Bot,B3,David Chen ,0,0,0,0,1,0,Engaged,0,0,1,0,1,0,Double Substation,Engaged,0 - Was not under heavy defense,Exit community balance auto. Grab mechanism unreliable. Lineup for scoring very slow. Triple engage,0 - did not play defense,,1.5 - not a strong scorer or defender,18,8,26
+12,4422 Twisted Angels,B1,Shamanth Shastry,0,0,0,0,0,1,Not Attempted,1,0,1,0,1,1,Floor,Engaged,2 - Scoring impacted by defense,"TIPPY robot 
+Engage is not great becuz it’s a hefty robot 
+Slow cycle because of tippy drivetrain",0 - did not play defense,,1.5 - not a strong scorer or defender,6,15,21
+18,4422 Twisted Angels,R2,Sanjay,0,0,0,0,0,1,Not Attempted,0,1,0,1,0,2,Double Substation,Engaged,0 - Was not under heavy defense,"ok cycle time but had issue picking up from substation, scoring took time as well sometimes",0 - did not play defense,scoring focused,1.5 - not a strong scorer or defender,6,15,21
+2,4422 Twisted Angels,B2,Varsha Rajesh,0,0,0,0,0,1,Engaged,0,2,0,0,2,2,Double Substation,Engaged,0 - Was not under heavy defense,"10 second cycle time, fast climbing onto station, fast scoring, cones upright, lost balance often",0 - did not play defense,,2 - contribute to score or elite defense,18,24,42
+26,4422 Twisted Angels,R3,Athrv and Ishan,0,0,0,0,0,1,Not Attempted,0,0,1,2,1,0,Double Substation,Engaged,2 - Scoring impacted by defense,"Spits out cubes and cones
+Good cycle",0 - did not play defense,"Focused on offense
+Got spun out by a blue alliance robot",1.5 - not a strong scorer or defender,6,14,20
+31,4422 Twisted Angels,R1,krrish,0,0,0,1,0,0,Not Attempted,0,0,2,1,2,3,Double Substation,Engaged,0 - Was not under heavy defense,"fast 7 second cycling 
+medium-high speed ",0 - did not play defense,no defense,3 - likely captain on 1st or 2nd alliance,4,34,38
+35,4422 Twisted Angels,B3,David Chen ,0,0,0,0,0,1,Not Attempted,0,1,2,1,2,0,Both,Engaged,0 - Was not under heavy defense,Two piece auto fail. 12 sec cycle. Fast and agile but very tippy. Triple engage. ,0 - did not play defense,,2.5 - highly competitive robot,6,21,27
+42,4422 Twisted Angels,R1,krrish,0,0,0,0,0,0,Engaged,1,2,0,0,4,0,Double Substation,Engaged,0 - Was not under heavy defense,"medium speed and cycling
+upright cone
+",0 - did not play defense,none,2 - contribute to score or elite defense,12,26,38
+20,469 Las Guerrillas,B2,David Chen ,0,0,0,0,1,0,Not Attempted,1,0,0,0,4,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Failed to grab second piece auto
+12 second cycle 
+Fast robot but super tippy",0 - did not play defense,,2 - contribute to score or elite defense,6,22,28
+26,469 Las Guerrillas,R1,Mahima,1,0,0,0,0,0,Not Attempted,2,0,2,1,1,1,Double Substation,Engaged,0 - Was not under heavy defense,"Very fast at everything, but dropped a lot of cones. 2 at charge station and 3 at double sub.",0 - did not play defense,Just scored.,2.5 - highly competitive robot,3,23,26
+30,469 Las Guerrillas,B2,Arunima,0,0,0,0,0,1,Not Attempted,2,0,2,1,1,0,Double Substation,Engaged,3 - Continues to score normally,"Tried scoring cone in auton - missed
+Only picked upright cones
+",2 - prevented some cargo,"Was able to swerve around well
+Held up during collisions 
+Pushed smaller bots away from scoring ",2.5 - highly competitive robot,6,18,24
+37,469 Las Guerrillas,R3,Sanjay,1,0,0,0,0,0,Not Attempted,2,0,0,0,2,1,Double Substation,Engaged,0 - Was not under heavy defense,"dropped pieces a couple times, indecisive in scoring, movement good, auton worked as intended",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,3,19,22
+6,469 Las Guerrillas,B2,Varsha Rajesh,0,0,0,0,0,0,Not Attempted,0,0,1,0,2,1,Floor,Docked,0 - Was not under heavy defense,"Robot stopped mid teleop for 10 secs, cones upright pick, weak at intaking, 16 sec cycle time",0 - did not play defense,,1.5 - not a strong scorer or defender,0,18,18
+1,494 Martians,R2,Pranav SenthilDurai ,0,0,0,0,0,1,Engaged,0,0,1,0,4,0,Double Substation,Not Attempted,0 - Was not under heavy defense,Focuses on cones,0 - did not play defense,None,2.5 - highly competitive robot,18,23,41
+16,494 Martians,B1,Shamanth Shastry,0,0,0,0,1,0,Not Attempted,0,0,1,1,2,1,Double Substation,Engaged,2 - Scoring impacted by defense,"Reliable extending arm and placing, but slightly slow cycle time 
+",0 - did not play defense,,1.5 - not a strong scorer or defender,6,21,27
+25,494 Martians,R2,Sanjay,0,0,0,0,1,0,Not Attempted,2,1,1,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"cycle time under 8-9 seconds, inaccurate in scoring but still placed pieces, moved precise in drive",0 - did not play defense,scoring focused,2.5 - highly competitive robot,6,24,30
+29,494 Martians,R3,Arunima,0,0,0,0,0,1,Not Attempted,0,0,2,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"Driving was smooth but slow
+ picked up cones upright
+ Couldn’t hold cubes quickly ",2 - prevented some cargo,Swerved around robots well and prevented some by blocking ,2 - contribute to score or elite defense,6,19,25
+34,494 Martians,R1,krrish,0,0,0,0,1,0,Not Attempted,0,1,1,0,2,2,Double Substation,Engaged,0 - Was not under heavy defense,"missed a cone during auton 
+fast cycling and speed ",0 - did not play defense,none ,2 - contribute to score or elite defense,6,25,31
+45,494 Martians,R2,Ananya K,0,0,0,0,1,0,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,Drivetrain stopped moving after passing speed bump been though arm was still rotating.,0 - did not play defense,Did not move.,1.5 - not a strong scorer or defender,6,0,6
+8,494 Martians,B3,Shamanth Shastry,0,0,0,0,1,1,Not Attempted,0,0,2,2,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Fast but stable movement
+Seems to not extend well enough for high
+Engages well
+LOW 1.5 ",0 - did not play defense,,1.5 - not a strong scorer or defender,12,12,24
+17,4983 IronBots,B2,David Chen ,0,1,0,0,0,0,Not Attempted,0,3,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Got stuck on charge station for some time
+Double engage",0 - did not play defense,,1 - does not contribute much to scoring,3,6,9
+21,4983 IronBots,R3,Athrv + Ishan,0,1,0,0,0,0,Not Attempted,0,6,0,0,0,0,Floor,Engaged,2 - Scoring impacted by defense,"Can only score low
+
+Picks up cubes with gap in chassis",1 - ineffective defense,"Very low mass, flies when hit but cube is still held",2 - contribute to score or elite defense,3,12,15
+27,4983 IronBots,B1,krrish,0,0,1,0,0,0,Engaged,0,4,0,0,0,0,Both,Failed,0 - Was not under heavy defense,"can only score bottom cubes
+fast slowed and cycling ",0 - did not play defense,none,2 - contribute to score or elite defense,16,8,24
+35,4983 IronBots,R1,krrish,0,1,0,0,0,0,Not Attempted,0,5,0,0,0,0,Both,Not Attempted,0 - Was not under heavy defense,"cannot do cones
+fast cycling",0 - did not play defense,no defnese,2 - contribute to score or elite defense,3,10,13
+4,4983 IronBots,B2,Varsha Rajesh,0,1,0,0,0,0,Not Attempted,0,6,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"6 sec cycle time, gripper may pop cube, fast climbing, great driving, fast & controlled",0 - did not play defense,,2 - contribute to score or elite defense,3,12,15
+42,4983 IronBots,R3,Sanjay,0,1,0,0,0,0,Not Attempted,0,5,0,0,0,0,Both,Engaged,0 - Was not under heavy defense,"can only score cubes but very efficient, cycle time great, quick and agile, solid for a chassis bot",0 - did not play defense,scoring focused ,2 - contribute to score or elite defense,3,10,13
+11,4983,Red,Sparsh Shrivastava,0,1,0,0,0,0,Not Attempted,1,5,0,0,0,0,Floor,Engaged,3 - Continues to score normally,,0 - did not play defense,,1.5 - not a strong scorer or defender,3,22,25
+15,51 The Wings of Fire,R1,Ishan,0,0,0,0,1,0,Not Attempted,3,1,0,0,2,2,Floor,Docked,0 - Was not under heavy defense,Was able to play offense nobody was defending ,0 - did not play defense,Only played offense,2 - contribute to score or elite defense,6,28,34
+23,51 The Wings of Fire,R3,Ishan and Athrv,0,0,0,1,0,0,Not Attempted,1,1,0,1,3,1,Double Substation,Engaged,0 - Was not under heavy defense,They were just freely scoring no defense but cycle time was good but effected by team in substation.,0 - did not play defense,Only played offense ,2.5 - highly competitive robot,4,27,31
+29,51 The Wings of Fire,B3,Pranav Maringanti,0,0,0,0,1,1,Engaged,0,0,2,1,3,0,Both,Engaged,0 - Was not under heavy defense,"Takes time to drop cargo on top node, normal speed, can score a lot but not all top node",0 - did not play defense,,2.5 - highly competitive robot,24,24,48
+3,51 The Wings of Fire,B2,Varsha Rajesh,0,0,0,0,1,0,Not Attempted,0,1,0,0,2,3,Double Substation,Not Attempted,0 - Was not under heavy defense,,0 - did not play defense,"Fell over station,15 second cycle time, slow at scoring,grab cones from the tip,fail cube grab auton",2.5 - highly competitive robot,6,27,33
+36,51 The Wings of Fire,B2,Arunima and Athrv,0,0,0,0,1,1,Not Attempted,0,0,3,1,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"Fast cycle time
+Intake is rollers, spits it out
+ ",1 - ineffective defense,"stable during collisions 
+did not block other bots ",2 - contribute to score or elite defense,12,27,39
+46,51 The Wings of Fire,B1,Yusuf Tariq,0,0,0,0,0,1,Docked,0,0,0,0,2,2,Double Substation,Engaged,3 - Continues to score normally,Great scoring ,0 - did not play defense,none ,2 - contribute to score or elite defense,14,20,34
+12,5152 Alotobots,R1,,0,0,0,0,0,1,Not Attempted,1,0,0,1,2,0,Double Substation,Docked,0 - Was not under heavy defense,They weren’t defended against but the other red bots were defended. Threw a cone at a red,0 - did not play defense,They were scoring while the other robots were hitting eachother and almost flipping.,1.5 - not a strong scorer or defender,6,15,21
+19,5152 Alotobots,R3,Athrv Siriki,1,0,0,1,0,0,Engaged,0,0,1,0,0,0,Double Substation,Engaged,1 - Cannot score under heavy defense,"Dropped cone and it got stuck in chassis
+Swerve drive
+Mechanism- clamping arm on slide assembly",1 - ineffective defense,"Tried defense, but can’t play well
+Medium speed hits from other robots send it flying
+Low mass",1 - does not contribute much to scoring,19,3,22
+25,5152 Alotobots,R1,Mahima,0,0,0,0,0,1,Engaged,1,0,1,1,1,0,Floor,Engaged,0 - Was not under heavy defense,"Great at picking tipped cubes on floor, scores at an ok speed just takes time to line up.",0 - did not play defense,Just scored,1.5 - not a strong scorer or defender,18,13,31
+33,5152 Alotobots,B3,David Chen ,1,0,0,0,0,0,Not Attempted,2,1,0,0,2,2,Floor,Engaged,0 - Was not under heavy defense,Missed two piece auto. Double engage. Smaller robot,0 - did not play defense,,2.5 - highly competitive robot,3,26,29
+39,5152 Alotobots,B3,David Chen ,0,0,0,0,0,1,Not Attempted,0,0,3,1,0,0,Floor,Engaged,1 - Cannot score under heavy defense,14 sec cycle. Dropped piece when defended and bumped. Robot is slow. Triple engage ,0 - did not play defense,,2 - contribute to score or elite defense,6,12,18
+46,5152 Alotobots,R2,Ananya K,0,0,0,0,0,1,Engaged,0,1,1,1,3,1,Floor,Engaged,0 - Was not under heavy defense,Quick gripper and accurate piece placement. Easily passed over charging station and quick engagement,0 - did not play defense,Did not interfere with other robots. Evaded well.,2.5 - highly competitive robot,18,28,46
+6,5152 Alotobots,B1,David Chen ,0,0,0,0,0,1,Engaged,0,1,0,2,1,0,Both,Docked,0 - Was not under heavy defense,"Hard to pick cubes up from floor
+Grip on gripper not very strong",0 - did not play defense,,1.5 - not a strong scorer or defender,18,13,31
+17,5216 E-Ville Empire,R2,Sanjay,0,0,0,0,1,0,Not Attempted,1,0,0,0,3,1,Double Substation,Engaged,0 - Was not under heavy defense,"10-12 sec cycle time, good gripping and scoring, auton worked decent, movement sleek",0 - did not play defense,scoring focused,2.5 - highly competitive robot,6,22,28
+21,5216 E-Ville Empire,R2,Yusuf Tariq,0,0,0,0,5,2,Docked,0,0,0,1,3,0,Double Substation,Engaged,3 - Continues to score normally,Scored many game pieces throughout the match,3 - prevented significant scoring,,2.5 - highly competitive robot,50,18,68
+29,5216 E-Ville Empire,B1,Chinmay N.,0,0,0,0,1,0,Not Attempted,0,2,2,1,1,1,Double Substation,Not Attempted,0 - Was not under heavy defense,"Robot worked quickly and systematically;
+Didn’t waste any time on defense",0 - did not play defense,none,3 - likely captain on 1st or 2nd alliance,6,23,29
+38,5216 E-Ville Empire,B3,David Chen ,0,0,0,0,1,0,Docked,0,0,2,2,1,1,Both,Engaged,0 - Was not under heavy defense,Robot too slow during auto for charge station balance. 15 second cycle. Triple engage.,0 - did not play defense,,2 - contribute to score or elite defense,14,22,36
+46,5216 E-Ville Empire,R1,krrish,0,0,0,0,1,0,Not Attempted,0,0,1,0,3,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"frozen at 52 seconds left due to other robot
+fast movement and cycling
+cone upright 
+",0 - did not play defense,none,2 - contribute to score or elite defense,6,18,24
+50,5216 E-Ville Empire,B1,Ananya K,0,0,0,0,1,0,Engaged,0,1,2,2,1,0,Double Substation,Engaged,0 - Was not under heavy defense,Fast intake of pieces and quick and accurate placement of pieces. Easily moves over charging station,0 - did not play defense,Evaded other robots.,2.5 - highly competitive robot,18,19,37
+7,5216 E-Ville Empire,B2,Varsha Rajesh,0,0,0,0,1,0,Docked,0,0,1,1,2,1,Double Substation,Engaged,2 - Scoring impacted by defense,"16 sec cycle time, slow at scoring, grips cone upright near base, tippy when under defense",0 - did not play defense,,1.5 - not a strong scorer or defender,14,21,35
+25,5235 Gears of Fortune,R3,Athrv and Ishan,0,0,0,0,0,1,Not Attempted,0,4,0,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Launches cubes
+good cycle time",3 - prevented significant scoring,"Tipped over one robot, delayed another for over 5 sec
+",2 - contribute to score or elite defense,6,8,14
+3,5235 Gears of Fortune,R2,Pranav S,0,1,0,0,0,0,Not Attempted,0,2,0,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Cannot take items off floor,0 - did not play defense,None,1.5 - not a strong scorer or defender,3,4,7
+31,5235 Gears of Fortune,B1,Pranav Maringanti,0,0,0,0,0,1,Not Attempted,0,3,0,1,0,0,Double Substation,Failed,0 - Was not under heavy defense,"Catapault scoring mech, boxes don’t stay in place and roll out. ",0 - did not play defense,,1.5 - not a strong scorer or defender,6,9,15
+35,5235 Gears of Fortune,R2,Ananya K,0,0,0,0,0,0,Not Attempted,0,1,0,3,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Fast. Cannot intake cones. Scoring low and high since launching cubes rebounded off of plastic panel,0 - did not play defense,,2 - contribute to score or elite defense,0,11,11
+46,5235 Gears of Fortune,B2,Ishan ,0,1,0,0,0,0,Not Attempted,0,5,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,"Nobody trying defending them, also they collected cargo from single substation ",1 - ineffective defense,No intentional defense,2 - contribute to score or elite defense,3,10,13
+16,5235,Red,Sparsh Shrivastava,0,1,0,0,0,0,Not Attempted,0,4,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,,0 - did not play defense,,1.5 - not a strong scorer or defender,3,8,11
+10,5314 Ice Bots,R2,Pranav S,0,1,0,0,0,0,Engaged,0,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"Likes to pick up cones a lot, decent cycle time",0 - did not play defense,None,2 - contribute to score or elite defense,15,15,30
+23,5314 Ice Bots,B1,Chinmay N.,0,1,0,0,0,0,Engaged,0,0,1,0,2,0,Double Substation,Failed,0 - Was not under heavy defense,"Auton -> docked slowly, tried putting cube in top node but dropped
+Sometimes dropped cones slowly
+",0 - did not play defense,None,2 - contribute to score or elite defense,15,13,28
+34,5314 Ice Bots,B1,Pranav Maringanti,2,2,0,0,0,0,Engaged,0,0,0,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Drops cargo and pushes it into the bottom node,0 - did not play defense,,1.5 - not a strong scorer or defender,24,0,24
+40,5314 Ice Bots,B1,Devesh Reddy,0,0,0,0,0,1,Engaged,0,0,1,0,2,0,Floor,Engaged,3 - Continues to score normally,,2 - prevented some cargo,Maintain cargo,2 - contribute to score or elite defense,18,13,31
+44,5314 Ice Bots,B2,Ishan Desai,0,1,0,0,0,0,Engaged,0,1,1,0,3,0,N/A,Engaged,0 - Was not under heavy defense,Only got blocked once for 5 seconds ,0 - did not play defense,"Played offense and picked up cargo from single substation, many mistakes led to medium speed cycle t",2 - contribute to score or elite defense,15,20,35
+5,5314 Ice Bots,R3,Mahima,0,1,0,0,0,0,Engaged,0,0,0,0,4,0,Double Substation,Engaged,0 - Was not under heavy defense,"Slow placement on grid, but consistent. Never dropped a cone. Climb is bad, very unsturdy.",0 - did not play defense,"No defense, just scored.",2 - contribute to score or elite defense,15,20,35
+50,5314 Ice Bots,R2,Reajul ,0,1,0,0,0,0,Engaged,2,0,0,0,3,0,Both,Engaged,0 - Was not under heavy defense,"Little slow placing pieces on nodes, quick intake, pretty slow, worked well with alliance for engage",0 - did not play defense,"Focused on scoring cones, no defense",2 - contribute to score or elite defense,15,19,34
+13,5505 V2 - Volts Squared,B3,krrish,0,0,0,0,0,0,Not Attempted,0,0,1,0,2,2,Both,Docked,0 - Was not under heavy defense,"medium cycling, slow speed and takes a while to place.",0 - did not play defense,no defnes,1.5 - not a strong scorer or defender,0,23,23
+24,5505 V2 - Volts Squared,R2,Sanjay,0,0,1,0,1,0,Not Attempted,1,0,0,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"had trouble scoring picked up pieces, took long at substation, maneuvered fine but jerky motion ",0 - did not play defense,scoring focused,1.5 - not a strong scorer or defender,10,15,25
+32,5505 V2 - Volts Squared,B1,Pranav Maringanti,0,0,0,0,1,0,Engaged,1,0,2,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"VERY Rickety, arm very shaky, sometimes cones flip up side down, stiff arm",0 - did not play defense,,2 - contribute to score or elite defense,18,21,39
+39,5505 V2 - Volts Squared,B2,,0,0,0,0,1,0,Not Attempted,0,1,1,0,2,1,Double Substation,Engaged,2 - Scoring impacted by defense,"They we’re getting blocked by 2 even 1 robots at a time and lost a few seconds every time, good cyc ",0 - did not play defense,Played only offense ,2 - contribute to score or elite defense,6,20,26
+45,5505 V2 - Volts Squared,B3,David Chen ,1,0,0,0,1,0,Not Attempted,1,0,3,1,2,0,Floor,Engaged,0 - Was not under heavy defense,Triple engage. Intake works for all orientation of cone,0 - did not play defense,,2 - contribute to score or elite defense,9,24,33
+5,5505 V2 - Volts Squared,B2,Varsha Rajesh,0,0,0,0,1,1,Engaged,1,0,0,2,1,2,Floor,Engaged,0 - Was not under heavy defense,"15 sec cycle time, driving weak, fast climbing, cones pick sideways ",0 - did not play defense,,2 - contribute to score or elite defense,24,23,47
+12,5712 Hemlock's Gray Matter,B2,Varsha Rajesh,0,0,0,1,0,1,Not Attempted,1,0,2,0,3,1,Floor,Engaged,0 - Was not under heavy defense,"Cone pick from tip, 17 sec cycle time, pretty controlled driving, swerves around robots easily ",0 - did not play defense,,2.5 - highly competitive robot,10,28,38
+16,5712 Hemlock's Gray Matter,R1,Ishan ,0,0,0,1,0,1,Not Attempted,0,0,2,2,2,0,Floor,Engaged,3 - Continues to score normally,They were defended at times but smoothly got out without any loss of time for issues.,0 - did not play defense,Played only offense,2 - contribute to score or elite defense,10,22,32
+26,5712 Hemlock's Gray Matter,B2,David Chen ,0,0,0,0,0,1,Not Attempted,0,0,2,0,4,1,Floor,Engaged,0 - Was not under heavy defense,"2 piece auto failed 
+11 sec cycle
+Super agile
+Triple engage 
+",0 - did not play defense,,2.5 - highly competitive robot,6,31,37
+32,5712 Hemlock's Gray Matter,R3,Reajul,0,0,0,0,0,1,Not Attempted,0,0,5,0,2,0,Double Substation,Engaged,3 - Continues to score normally,"Quick, decent driver, fast intake and placing game pieces, easily dodged robots",0 - did not play defense,Focused on collecting game pieces from subststion,2.5 - highly competitive robot,6,25,31
+42,5712 Hemlock's Gray Matter,B1,Devesh Reddy,0,0,0,0,1,0,Engaged,0,0,1,1,0,0,Double Substation,Engaged,3 - Continues to score normally,,2 - prevented some cargo,Maintain cargo,2 - contribute to score or elite defense,18,6,24
+6,5712 Hemlock's Gray Matter,B3,Shamanth Shastry,0,0,0,0,0,1,Engaged,0,0,1,0,3,0,Double Substation,Docked,0 - Was not under heavy defense,"Mid cycle time 
+Heavy robot, makes it a bit difficult to engage ",0 - did not play defense,,1.5 - not a strong scorer or defender,18,18,36
+11,5860 Full Metal Muskrats,B2,Varsha Rajesh,0,0,0,0,0,0,Not Attempted,0,6,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"20 sec cycle time,controlled driving,slow at lining up at Substation,early station climb at 30- fast",0 - did not play defense,,2 - contribute to score or elite defense,0,12,12
+23,5860 Full Metal Muskrats,R1,Mahima,0,0,1,0,0,0,Not Attempted,0,0,1,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Slow at scoring mid, doesn’t score high. Slow at intaking from ground, especially cones.",3 - prevented significant scoring,Very good at blocking robots without fouls. Stopped 3655 from scoring at all.,2 - contribute to score or elite defense,4,3,7
+33,5860 Full Metal Muskrats,B2,Arunima and Athrv,0,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,Wasn’t playing- (broke?),0 - did not play defense,N/a,1 - does not contribute much to scoring,0,0,0
+37,5860 Full Metal Muskrats,B3,David Chen ,0,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,Did not show up for match,0 - did not play defense,,1 - does not contribute much to scoring,0,0,0
+41,5860 Full Metal Muskrats,B3,David Chen ,0,0,1,0,0,0,Not Attempted,0,0,1,1,0,0,Both,Engaged,0 - Was not under heavy defense,Switched to defense mid game. Triple engage. Slow lineup ,2 - prevented some cargo,Was able to slow down cycles of multiple robots by a few seconds ,2 - contribute to score or elite defense,4,6,10
+7,5860 Full Metal Muskrats,R1,Ishan,0,0,1,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,They were the playing defense ,3 - prevented significant scoring,They broke their arm and resorted to defense which was actually really effective.,2.5 - highly competitive robot,4,0,4
+13,70 More Martians,R2,Sanjay,0,0,0,0,0,1,Not Attempted,0,1,0,1,3,0,Double Substation,Engaged,2 - Scoring impacted by defense,"bumped a lot, ok cycle time, smooth movement, versatile intake for cones and cubes",0 - did not play defense,scoring focused ,1.5 - not a strong scorer or defender,6,20,26
+19,70 More Martians,B2,David Chen ,0,0,0,0,1,1,Not Attempted,0,0,1,1,2,0,Double Substation,Docked,0 - Was not under heavy defense,"Dropped pieces when bumped 
+13 second cycle 
+Crash into other robots a lot(opp and alliance)",0 - did not play defense,,2 - contribute to score or elite defense,12,16,28
+2,70 More Martians,R1,Ishan,0,0,0,0,0,1,Engaged,0,0,2,1,2,0,Double Substation,Engaged,3 - Continues to score normally,4422 was trying to block 70 but they managed to manuvere around the defending robot.,0 - did not play defense,They didn’t play defense they just went double substation and back scoring a good amount of pieces.,2.5 - highly competitive robot,18,19,37
+24,70 More Martians,B1,krrish,0,0,0,0,1,1,Not Attempted,1,1,1,1,2,0,Double Substation,Docked,0 - Was not under heavy defense,"fast cycling (6 seconds)
+upright cone position
+almost tipped enemy robot (107)
+fast",0 - did not play defense,no defense ,2.5 - highly competitive robot,12,20,32
+30,70 More Martians,R3,Reajul,0,0,0,0,1,1,Not Attempted,0,0,1,1,2,1,Double Substation,Docked,3 - Continues to score normally,"Good driving but slow, quick intake from substations and floor, quickly dodges other robots",1 - ineffective defense,"Focused on collecting game pieces,occasionally bumped into other robots but not very effeective",2 - contribute to score or elite defense,12,21,33
+35,70 More Martians,B1,Pranav Maringanti,0,0,0,0,1,1,Not Attempted,0,1,1,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"Slow loadings, reliable gripper and arm mech, smooth movement, ",0 - did not play defense,,2 - contribute to score or elite defense,12,15,27
+41,70 More Martians,B2,Ishan,0,0,0,0,1,1,Not Attempted,0,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,Sorry I might’ve missed some information the other team kicked me out my seat,0 - did not play defense,Played offense,2.5 - highly competitive robot,12,15,27
+50,70 More Martians,R3,Chinmay Nair,0,1,0,0,1,0,Not Attempted,2,1,1,1,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Can aim gripper with precision, is precise with maneuvering",0 - did not play defense,None,2.5 - highly competitive robot,9,17,26
+1,7197 Mountie Megabots,B3,Shamanth Shastry,0,0,0,0,0,1,Not Attempted,0,0,0,0,2,0,Double Substation,Engaged,2 - Scoring impacted by defense,"Died abt 15 secs into the match
+Moves well 
+Woke up when 70 secs left
+DROPS CONE IF HIT
+Engagwel",0 - did not play defense,N/a,1.5 - not a strong scorer or defender,6,10,16
+19,7197 Mountie Megabots,R2,Sanjay,0,0,0,0,0,1,Not Attempted,1,0,0,1,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"quick pickup at substation, erratic driving bumping and tipping over, 10 sec cycle time, auton good",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,6,20,26
+27,7197 Mountie Megabots,B3,Pranav Maringanti,0,0,0,0,0,1,Not Attempted,0,0,0,0,5,0,Double Substation,Docked,0 - Was not under heavy defense,"Scores top only, reliable gripper but slower than other teams. Auton only scores one",0 - did not play defense,,2.5 - highly competitive robot,6,25,31
+32,7197 Mountie Megabots,R2,Ananya Kalidindi ,0,0,0,0,0,1,Not Attempted,0,0,0,0,2,0,Both,Not Attempted,1 - Cannot score under heavy defense,Shaky gripper but accurately picks up and places game pieces. Flipped by 3 robots so could not score,1 - ineffective defense,Sometimes number other robots out of the way slightly.,2 - contribute to score or elite defense,6,10,16
+39,7197 Mountie Megabots,R1,Chinmay Nair,0,0,0,0,0,1,Not Attempted,1,0,0,2,3,0,Double Substation,Not Attempted,0 - Was not under heavy defense,Robot worked quickly and systematically ,0 - did not play defense,,2.5 - highly competitive robot,6,23,29
+45,7197 Mountie Megabots,B2,Ishan,0,0,0,0,0,1,Not Attempted,1,2,0,1,1,1,Double Substation,Engaged,3 - Continues to score normally,"Nobody was defending them medium cycle time, smooth running ",1 - ineffective defense,No intentional defense ,2 - contribute to score or elite defense,6,19,25
+8,7197 Mountie Megabots,B1,David Chen ,0,0,0,0,0,1,Not Attempted,2,0,0,0,3,0,Floor,Not Attempted,0 - Was not under heavy defense,"14 sec cycle
+Dced at end of match
+",0 - did not play defense,,2 - contribute to score or elite defense,6,19,25
+1,7226 Error 404,R1,Ishan,0,1,0,0,0,0,Not Attempted,0,1,0,1,0,1,Floor,Engaged,0 - Was not under heavy defense,They were just picking up cubes from the floor nobody was blocking eachother or playing defense ,0 - did not play defense,No defense was happening as the red and blue alliances were kind of just doing their own things.,2 - contribute to score or elite defense,3,10,13
+18,7226 Error 404,B3,Mahima,0,0,0,0,0,1,Not Attempted,0,0,0,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"Scored very slowly, placement especially at grid is slow. Tippy robot",1 - ineffective defense,Stayed in the middle towards the end of game but didn’t prevent anything.,1.5 - not a strong scorer or defender,6,3,9
+23,7226 Error 404,B2,David Chen ,0,0,0,0,0,1,Not Attempted,0,2,0,0,0,0,Both,Failed,1 - Cannot score under heavy defense,"Shoots cube and inaccurate (they tried high score low)
+Cannot outmaneuver opp ",0 - did not play defense,,1 - does not contribute much to scoring,6,4,10
+28,7226 Error 404,B1,Chinmay N.,0,1,0,0,0,0,Not Attempted,0,1,0,0,1,1,Double Substation,Engaged,2 - Scoring impacted by defense,"Robot spent most time at double substation
+has some trouble picking up and placing with precision",0 - did not play defense,None,1.5 - not a strong scorer or defender,3,12,15
+36,7226 Error 404,B1,Pranav Maringanti,0,0,0,0,0,1,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,Teleop not working,0 - did not play defense,,1 - does not contribute much to scoring,6,0,6
+42,7226 Error 404,R2,Ananya K,0,0,0,0,0,1,Not Attempted,0,1,0,0,1,2,Both,Engaged,0 - Was not under heavy defense,Quick intake. Very slow placement of pieces. Intake was especially shaky so scoring high was hard.,0 - did not play defense,,1.5 - not a strong scorer or defender,6,17,23
+13,7226,Red,Sparsh Shrivastava,0,0,0,1,0,0,Not Attempted,0,1,0,0,0,1,Floor,Engaged,2 - Scoring impacted by defense,,2 - prevented some cargo,,1.5 - not a strong scorer or defender,4,17,21
+14,74 Team CHAOS,B1,Shamanth Shastry,0,0,0,0,1,0,Not Attempted,1,2,0,0,2,0,Floor,Engaged,0 - Was not under heavy defense,"Arm seems to have malfunctioned later 
+Started pushing cones into low 
+Cycle time slow
+LOW1.5",0 - did not play defense,,1.5 - not a strong scorer or defender,6,16,22
+22,74 Team CHAOS,R1,Mahima ,0,0,0,0,0,1,Not Attempted,1,2,0,0,3,0,Both,Engaged,0 - Was not under heavy defense,"Fast scoring at grid, but slow intake especially for cubes at ground. Tippy whenever on station ",0 - did not play defense,Just scored.,2 - contribute to score or elite defense,6,21,27
+29,74 Team CHAOS,R2,Reajul,0,0,0,0,0,1,Engaged,0,1,0,0,1,0,Floor,Not Attempted,0 - Was not under heavy defense,"Engaged quickly and easily in auton, tipped over less than halfway through teleop,fast intake,wobbly",0 - did not play defense,Focused on intake cubes from floor,1.5 - not a strong scorer or defender,18,7,25
+38,74 Team CHAOS,B2,Ishan Desai,0,0,0,0,0,1,Not Attempted,1,2,0,0,1,1,Double Substation,Engaged,2 - Scoring impacted by defense,"Would lose about 2-8 seconds everytime someone got in their way, their cycle was pretty slow.",0 - did not play defense,They played offense ,2 - contribute to score or elite defense,6,16,22
+42,74 Team CHAOS,B2,Ishan Desai,0,0,0,0,0,1,Not Attempted,0,1,0,0,2,1,Floor,Engaged,0 - Was not under heavy defense,"Almost tipped over going off the charge station, nobody was defending them though ",0 - did not play defense,"Played offense, slow cycle time, slow robot speed, maybe low battery",2 - contribute to score or elite defense,6,17,23
+5,74 Team CHAOS,B1,David Chen ,0,0,0,0,0,1,Not Attempted,0,0,0,0,4,1,Both,Engaged,2 - Scoring impacted by defense,"17 second cycle 
+Triple engage 
+Robot is pretty slow 
+",0 - did not play defense,,2 - contribute to score or elite defense,6,25,31
+9,74 Team CHAOS,B2,Varsha Rajesh,0,0,0,0,0,1,Not Attempted,1,0,0,0,2,1,Double Substation,Engaged,0 - Was not under heavy defense,"Upright cone pick up, weak grip, slow driving, very tippy, hit alliance with arm multiple times",0 - did not play defense,,2 - contribute to score or elite defense,6,17,23
+2,818 The Steel Armadillos,B3,Shamanth Shastry,0,1,0,0,1,0,Not Attempted,0,0,2,0,3,1,Both,Engaged,0 - Was not under heavy defense,"Auton half failed
+Smooth movement across the field 
+Greatbalancing
+Arm extension is smooth
+
+
+",0 - did not play defense,,2.5 - highly competitive robot,9,26,35
+20,818 The Steel Armadillos,R1,Mahima,0,0,0,0,1,0,Engaged,0,0,0,0,4,1,Double Substation,Docked,0 - Was not under heavy defense,"Fast cycle time and positioning. Auton failed, was supposed to carry a cube when engaging. Got stuck",0 - did not play defense,Just scored.,2.5 - highly competitive robot,18,25,43
+25,818 The Steel Armadillos,B3,Pranav Maringanti,0,0,0,0,1,1,Not Attempted,0,0,2,1,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Fast pickup, fast drop, secure grip, ",0 - did not play defense,,2 - contribute to score or elite defense,12,14,26
+34,818 The Steel Armadillos,R2,Ananya K,0,0,0,0,1,0,Engaged,0,0,2,0,2,1,Double Substation,Engaged,3 - Continues to score normally,Evaded other robots well. Fast. Quick intake and placement of pieces. Can only pick up upright cones,0 - did not play defense,"None, just offense.",2.5 - highly competitive robot,18,21,39
+39,818 The Steel Armadillos,R2,Ananya K,0,0,0,0,2,0,Not Attempted,1,1,2,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,Quick piece placement and gripper extension. Accurate piece placement. Quick climb up charge station,0 - did not play defense,,3 - likely captain on 1st or 2nd alliance,12,25,37
+44,818 The Steel Armadillos,B1,Yusuf Tariq,0,0,1,0,0,0,Engaged,0,1,3,0,0,0,Double Substation,Engaged,0 - Was not under heavy defense,Very good movement ,0 - did not play defense,none ,2.5 - highly competitive robot,16,11,27
+49,818 The Steel Armadillos,R2,Reajul,0,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,"Moved back and forth in auton, arm might be broken, stopped moving near end of teleop",3 - prevented significant scoring,"Played defense most of tele op, was able to block lots of robots, strong pushing ",2 - contribute to score or elite defense,0,0,0
+12,818,Red,Sparsh Shrivastava,1,0,0,0,0,0,Not Attempted,0,0,0,0,0,2,Double Substation,Not Attempted,0 - Was not under heavy defense,Robot stopped moving ,0 - did not play defense,,1.5 - not a strong scorer or defender,3,10,13
+18,8426 Automated Amphibians,B1,Shamanth Shastry,0,0,0,0,0,1,Engaged,1,0,2,0,1,1,Double Substation,Engaged,0 - Was not under heavy defense,"Good everybot and not tippy
+Decent cycle time 
+Good balancing
+Low 2 or high 1.5",0 - did not play defense,,2 - contribute to score or elite defense,18,18,36
+22,8426 Automated Amphibians,R3,Ishan and Athrv,0,0,0,0,0,1,Engaged,0,0,1,1,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"When they were bumped into they were tippy on the sides, looks like they are sideheavy.
+",0 - did not play defense,Played offense,2 - contribute to score or elite defense,18,16,34
+29,8426 Automated Amphibians,B2,David Chen ,0,0,0,0,0,1,Engaged,1,0,2,1,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Exit community balance auto
+14 sec cycle 
+Double engage 
+",0 - did not play defense,,2 - contribute to score or elite defense,18,16,34
+35,8426 Automated Amphibians,B2,Arunima and Athrv ,0,0,0,1,0,0,Engaged,0,1,2,0,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"Fast cycle time
+Intake is rollers and spits out",1 - ineffective defense,"Not under heavy defense
+Stable when hit 
+",2 - contribute to score or elite defense,16,13,29
+4,8426 Automated Amphibians,B3,Shamanth Shastry,0,0,0,0,0,1,Engaged,0,0,1,0,4,0,Double Substation,Engaged,3 - Continues to score normally,"Great everybot 
+Balanced and smooth drivetrain
+Perfect 6/6 total in placing cones
+Engages well
+",0 - did not play defense,,2.5 - highly competitive robot,18,23,41
+44,8426 Automated Amphibians,R3,Sanjay,0,0,0,0,1,0,Not Attempted,0,0,2,2,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"quick cycle time at substation, had a penalty where they scored two pieces at once, movement good ",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,6,17,23
+48,8426 Automated Amphibians,R1,Chinmay Nair,0,0,0,0,0,1,Not Attempted,0,0,0,2,1,0,Double Substation,Engaged,0 - Was not under heavy defense,Some difficulty positioning and picking up game pieces,0 - did not play defense,,2 - contribute to score or elite defense,6,11,17
+8,8426 Automated Amphibians,B2,Varsha Rajesh,0,0,0,0,0,1,Engaged,0,0,2,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"22 sec cycle time, slow scoring, autobalance auton, cone upright tip, moves mid pace to substation",0 - did not play defense,,1.5 - not a strong scorer or defender,18,16,34
+13,8728 Argonauts,B2,Varsha Rajesh,0,0,0,0,0,0,Engaged,0,1,0,1,0,1,Floor,Engaged,0 - Was not under heavy defense,"Autobalance auton, poor driving, slow intaking, slow scoring, 25 sec cycle time ",1 - ineffective defense,,1.5 - not a strong scorer or defender,12,10,22
+17,8728 Argonauts,B1,Shamanth Shastry,0,0,0,0,0,0,Engaged,0,1,0,1,0,1,Floor,Engaged,0 - Was not under heavy defense,"Fails to release cube easily
+Dumb driving picked cube opponents loading zone penalt
+Slow cycle tim",0 - did not play defense,,1.5 - not a strong scorer or defender,12,10,22
+22,8728 Argonauts,B2,David Chen ,0,0,0,0,0,1,Engaged,0,1,0,2,0,0,Floor,Engaged,0 - Was not under heavy defense,"Goes up charge station slow auto
+Hard to pick up cone from ground
+10+ sec at single sub
+Tri engage ",0 - did not play defense,,1.5 - not a strong scorer or defender,18,8,26
+28,8728 Argonauts,B3,,0,0,0,0,0,1,Failed,0,3,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Scores bottom only, slow pickup, sometimes took up to 7 seconds just to pick up",0 - did not play defense,,1.5 - not a strong scorer or defender,6,6,12
+39,8728 Argonauts,R3,Sanjay,0,0,0,0,0,1,Not Attempted,0,0,1,1,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"had issues picking up pieces from substation, dropped pieces, accuracy was mid, movement was good",2 - prevented some cargo,"unable to pick up pieces, they switched to defense and stopped a couple robots",1.5 - not a strong scorer or defender,6,6,12
+46,8728 Argonauts,B3,David Chen ,0,0,0,0,0,1,Failed,0,3,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,Intake is not great at intaking (doesn't always suck cube). Triple engage.,0 - did not play defense,,1.5 - not a strong scorer or defender,6,6,12
+6,8728 Argonauts,R1,Ishan,0,0,0,0,0,0,Not Attempted,0,3,0,0,0,1,Floor,Engaged,1 - Cannot score under heavy defense,"When more than 2 robots are in their way even their alliance robots, they didn’t attempt to go aroun",0 - did not play defense,Didn’t play defense only offense.,2 - contribute to score or elite defense,0,11,11
+10,910 The Foley Freeze,B2,Varsha Rajesh,0,0,0,0,1,1,Not Attempted,2,2,0,0,1,0,Double Substation,Engaged,3 - Continues to score normally,"Controlled and fast driving, cones grab upright base, a bit tippy if collided with a robot, ",0 - did not play defense,,2 - contribute to score or elite defense,12,13,25
+14,910 The Foley Freeze,R1,Ishan ,0,0,0,0,1,0,Not Attempted,0,0,0,1,4,0,Double Substation,Engaged,0 - Was not under heavy defense,Lost 5 seconds in the beginning bcuz they were blocked otherwise wise we’re not defended.,0 - did not play defense,"Didn’t play defense, robot ran smooth",2.5 - highly competitive robot,6,23,29
+27,910 The Foley Freeze,R3,Athrv and Ishan,0,0,0,0,1,0,Not Attempted,1,1,0,0,2,1,Double Substation,Engaged,2 - Scoring impacted by defense,"Dropped cube at start, pushed some in
+Intake and spit out",2 - prevented some cargo,"Stable, blocked blue alliance for 6 sec",2 - contribute to score or elite defense,6,19,25
+37,910 The Foley Freeze,B2,Ishan,0,0,0,0,1,0,Not Attempted,0,2,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"I honestly have no clue what their driver was doing, they kept going in random directions.",0 - did not play defense,They didn’t really do much,1 - does not contribute much to scoring,6,4,10
+43,910 The Foley Freeze,R3,Sanjay,0,0,0,0,0,0,Not Attempted,3,0,0,0,1,1,Double Substation,Not Attempted,3 - Continues to score normally,quick turnaround in picking up from substation and smooth movement and agility to avoid defense,0 - did not play defense,scoring focused,2 - contribute to score or elite defense,0,16,16
+50,910 The Foley Freeze,R1,Surya Jeeda,0,0,0,0,0,0,Not Attempted,1,1,0,0,0,2,Both,Engaged,0 - Was not under heavy defense,Slow cycle time but had a reliable gripper for scoring.,2 - prevented some cargo,Unintentional robot collision impeded scoring for the opponents.,2 - contribute to score or elite defense,0,14,14
+22,910,Blue,Pranav Maringanti,0,0,0,0,1,0,Not Attempted,0,1,0,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,"LONG time to drop cargo, fast movement but cargo drop was so long I thought it was broken",0 - did not play defense,,1.5 - not a strong scorer or defender,6,22,28
+12,9182 Tech Tr1be,B3,krrieh,1,0,0,0,0,0,Not Attempted,0,3,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"fast, can only score lower, speed cycling, upright cone ",0 - did not play defense,no defense,2 - contribute to score or elite defense,3,6,9
+21,9182 Tech Tr1be,B1,krrish,1,0,0,0,0,0,Not Attempted,1,4,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,can only score bottom,0 - did not play defense,no defense,1.5 - not a strong scorer or defender,3,10,13
+3,9182 Tech Tr1be,B1,David Chen ,1,0,0,0,0,0,Not Attempted,0,2,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Dced once during auto once during tele
+Hard for them to grip cubes from ground (keep pushing away)",0 - did not play defense,,1 - does not contribute much to scoring,3,4,7
+30,9182 Tech Tr1be,R2,Mahima,1,0,0,0,0,0,Not Attempted,1,3,0,0,0,0,Floor,Failed,0 - Was not under heavy defense,"Slow driving, takes a while to pick pieces from floor. Only scored in low.",0 - did not play defense,"Just scored, even though they barely contributed to points.",1 - does not contribute much to scoring,3,8,11
+34,9182 Tech Tr1be,R3,Reajul ,1,0,0,0,0,0,Not Attempted,0,6,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,"Quick robot,quick intake and scoringdodges other robots fairly quick but wasn’t under lot of defense",2 - prevented some cargo,"Played some defense beginning of tele op waiting for substation to clear, did not block many",2 - contribute to score or elite defense,3,12,15
+41,9182 Tech Tr1be,R2,Ananya K,1,0,0,0,0,0,Not Attempted,0,4,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,Pretty quick gripper and accurate piece placement(can only score low). Helped alliance robot up. ,0 - did not play defense,Collided multiple times into other robots which stopped the robot from moving for some time.,1.5 - not a strong scorer or defender,3,8,11
+48,9182 Tech Tr1be,B1,Reajul,1,0,0,0,0,0,Not Attempted,4,2,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Fairly good driver,quick at taking game pieces from the floor,was able to engage fell off after matc",0 - did not play defense,"Focused on collecting game pieces, was able to dodge a robot well",2 - contribute to score or elite defense,3,12,15
+13,9207 Redneck Robotics,R1,Ishan ,0,1,0,0,0,0,Not Attempted,0,4,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,They were not under defense. Their driver was uncoordinated and looked confused.,0 - did not play defense,They were basically ignored left to score the cubes without interference ,1.5 - not a strong scorer or defender,3,8,11
+20,9207 Redneck Robotics,R2,Sanjay,0,1,0,0,0,0,Not Attempted,0,2,0,0,0,0,Floor,Failed,2 - Scoring impacted by defense,"intake didn’t seem to be working, choppy movement, just nudged cubes in, couldn’t get up to dock",0 - did not play defense,scoring focused,1.5 - not a strong scorer or defender,3,4,7
+27,9207 Redneck Robotics,R2,Sanjay,0,1,0,0,0,0,Not Attempted,0,5,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"rash driving caused crash and pieces to fly off, effective cube scoring but can’t do much else",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,3,10,13
+32,9207 Redneck Robotics,R1,krrish,0,1,0,0,0,0,Not Attempted,0,3,0,0,0,0,Both,Not Attempted,0 - Was not under heavy defense,"slow cycling and speed 
+inefficient arm",0 - did not play defense,none,1 - does not contribute much to scoring,3,6,9
+4,9207 Redneck Robotics,R3,Mahima,0,0,0,0,0,0,Not Attempted,0,1,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,Failed scoring cube in upper during auton. Spent rest of game dragging cubes to lowerN and playing D,1 - ineffective defense,"Tried to push robots midfield, but wobbled instead and didn’t prevent anything.",1 - does not contribute much to scoring,0,2,2
+40,9207 Redneck Robotics,B2,Ishan,0,1,0,0,0,0,Not Attempted,0,3,0,0,0,0,Floor,Engaged,2 - Scoring impacted by defense,Any side impact can tip the robot over it is side heavy.,0 - did not play defense,"Didn’t play defense,and I think their arm isn’t working, they keep dribbling the cubes into low node",1.5 - not a strong scorer or defender,3,6,9
+46,9207 Redneck Robotics,R3,Sanjay,0,1,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Not Attempted,0 - Was not under heavy defense,"disconnected in teleop, auton functioned as intended",0 - did not play defense,disconnected,1 - does not contribute much to scoring,3,0,3
+16,9242 Hamady Hawks,B2,Varsha Rajesh,1,0,0,0,0,0,Not Attempted,0,1,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Mainly played defensed, pushed a few cubes into blue community, aimlessly drove around a lot",1 - ineffective defense,,1 - does not contribute much to scoring,3,2,5
+21,9242 Hamady Hawks,R1,Mahima,1,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Failed,0 - Was not under heavy defense,"Just a chassis bot, has no intake or gripper. Only pushes cubes around. Got disabled halfway in game",1 - ineffective defense,"Stayed in middle of field, but bothered alliance partners more than opponents by blocking way to sub",1 - does not contribute much to scoring,3,0,3
+28,9242 Hamady Hawks,B2,David Chen ,1,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,,2 - prevented some cargo,"Pushed pieces on ground away from opponent
+Popped a cube
+outmaneuvered a lot
+Triple engage ",1 - does not contribute much to scoring,3,0,3
+39,9242 Hamady Hawks,B1,Devesh Reddy,0,0,0,0,0,0,Engaged,0,0,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,The robot was not doing anything all he was just doing was he just moves and spins around no score,0 - did not play defense,No defenses,1.5 - not a strong scorer or defender,12,0,12
+4,9242 Hamady Hawks,R2,Pranav S,1,0,0,0,0,0,Not Attempted,0,1,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Intake broke, really slow cycle time ",1 - ineffective defense,"Tried to block a robot, didn’t work ",1.5 - not a strong scorer or defender,3,2,5
+43,9242 Hamady Hawks,R1,krrish,1,0,0,0,0,0,Not Attempted,0,0,0,0,0,0,N/A,Engaged,0 - Was not under heavy defense,defensive robot,2 - prevented some cargo,pushed robots and defended cargo,1.5 - not a strong scorer or defender,3,0,3
+14,9255 Botmasterz,B3,Mahima,0,0,0,0,0,1,Not Attempted,0,2,0,0,2,0,Double Substation,Failed,0 - Was not under heavy defense,"Slow intake and positioning at grid. Dropped cone and cube, didn’t get to climb in time.",0 - did not play defense,Only scored.,1.5 - not a strong scorer or defender,6,14,20
+2,9255 Botmasterz,R3,Mahima,0,0,0,0,0,1,Not Attempted,0,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"slow intake and lineup at substation, dropped 4 cubes. Slow at grid. Started climbing at 30 sec",0 - did not play defense,"No defense played, just scored.",1.5 - not a strong scorer or defender,6,15,21
+25,9255 Botmasterz,B1,krrish,0,0,0,0,0,1,Not Attempted,0,0,0,1,1,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"tipped over
+unreliable cycling (40 seconds per)
+arm works 1/5 times",0 - did not play defense,none,1 - does not contribute much to scoring,6,8,14
+32,9255 Botmasterz,B2,Arunima,0,0,0,0,1,0,Not Attempted,0,0,1,0,1,1,Double Substation,Engaged,2 - Scoring impacted by defense,"Roller wheels for intake, spits out 
+Good cycle time, but stoped by other alliance blocking",1 - ineffective defense,"When hit, very tippy
+Focused on offense ",1.5 - not a strong scorer or defender,6,13,19
+36,9255 Botmasterz,R1,krrish,0,1,0,0,0,0,Not Attempted,0,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"medium speed and cycling
+upright cone
+",0 - did not play defense,none,1.5 - not a strong scorer or defender,3,15,18
+41,9255 Botmasterz,R3,Arunima,0,0,0,1,0,0,Not Attempted,1,1,0,0,3,0,Double Substation,Engaged,2 - Scoring impacted by defense,"Intake is rollers and spits out 
+Fast cycle time, only picks upright cones",2 - prevented some cargo,"Stable during collisions 
+Good at balancing when all most tipping over ",1.5 - not a strong scorer or defender,4,19,23
+7,9255 Botmasterz,R3,Mahima,0,0,0,0,0,1,Engaged,0,0,0,0,4,0,Double Substation,Engaged,1 - Cannot score under heavy defense,"Slow at intake at double substation, but never dropped a cone. 
+Can’t move under defense, was tippy",0 - did not play defense,"No defense, just scored.",1.5 - not a strong scorer or defender,18,20,38

@@ -50,12 +50,49 @@ app.get("/reformat", function (request, response) {
 
 app.post("/match", function (request, response) {
     console.log(request.body);
-    const number = request.body["team"];
-    const match = request.body["match"];
-    const uid = request.body["uid"];
+    const number = request.body["t"];
+    const match = request.body["m"];
     const res = request.body;
-    let data = JSON.stringify(res);
-    let file = __dirname + "/scouting/" + number + "-" + match + "-" + uid + ".json";
+    const keyMap = {
+        "m": "match",
+        "t": "team",
+        "a": "Alliance Color",
+        "n": "Scouter Name",
+        "acol": "Auton Cones Lower",
+        "acul": "Auton Cubes Lower",
+        "acom": "Auton Cones Mid",
+        "acum": "Auton Cubes Mid",
+        "acou": "Auton Cones Upper",
+        "acuu": "Auton Cubes Upper",
+        "acs": "Auton Charge Station",
+        "tcol": "Teleop Cones Lower",
+        "tcul": "Teleop Cubes Lower",
+        "tcom": "Teleop Cones Mid",
+        "tcum": "Teleop Cubes Mid",
+        "tcou": "Teleop Cones Upper",
+        "tcuu": "Teleop Cubes Upper",
+        "p": "Piece Pickup",
+        "cs": "Charge Station",
+        "ud": "Under Defense",
+        "on": "Other Notes",
+        "dr": "Defense Rating",
+        "dn": "Defense Notes",
+        "rr": "Robot Rating",
+        "ap": "Auton Points",
+        "tp": "Teleop Points",
+        "ttp": "Total Points"
+    }
+    let ref = {};
+    // for (const key in res) {
+    //     if (key.hasOwnProperty(key)) {
+    //         ref[keyMap[key]] = res[key]
+    //     }
+    // }
+    Object.keys(res).forEach((key) => {
+        ref[keyMap[key]] = res[key]
+    })
+    let data = JSON.stringify(ref);
+    let file = __dirname + "/scouting/" + number + "-" + match + ".json";
     if (fs.existsSync(file)) {
         file = __dirname + "/duplicates/" + number + "-" + match + ".json";
     }

@@ -1,14 +1,12 @@
 {
-  "Working_Directory": "/Users/arnavshah/Documents/GitHub/frc-scouting-db/src/api/scouting",
-  "Target_JSON": "/Users/arnavshah/Documents/GitHub/frc-scouting-db/src/api/compiled-scouting/compiled.json",
-  "Target_CSV": "/Users/arnavshah/Documents/GitHub/frc-scouting-db/src/api/csv/compiled.csv",
+  "Working_Directory": "D:\\226\\SharkScout-Backend\\src\\api\\scouting",
+  "Target_JSON": "D:\\226\\SharkScout-Backend\\src\\api\\compiled-scouting\\compiled.json",
+  "Target_CSV": "D:\\226\\SharkScout-Backend\\src\\api\\csv\\compiled.csv",
   "Label_Order": [
-    "uid",
     "match",
     "team",
     "Alliance Color",
     "Scouter Name",
-    "Starting Position",
     "Auton Cones Lower",
     "Auton Cubes Lower",
     "Auton Cones Mid",
@@ -16,7 +14,6 @@
     "Auton Cones Upper",
     "Auton Cubes Upper",
     "Auton Charge Station",
-    "Auton Notes",
     "Teleop Cones Lower",
     "Teleop Cubes Lower",
     "Teleop Cones Mid",
@@ -25,7 +22,6 @@
     "Teleop Cubes Upper",
     "Piece Pickup",
     "Charge Station",
-    "Station Side",
     "Under Defense",
     "Other Notes",
     "Defense Rating",
@@ -36,23 +32,16 @@
     "Total Points"
   ],
   "Pit-Order": [
-    "uid",
-    "scouter",
+    "match",
     "team",
     "Scouter Name",
-    "Team Number",
-    "Drivetrain",
-    "Preferred Starting Position",
-    "Shooting Preference",
-    "Max Shot Position",
-    "Climb",
-    "Highest Rung",
-    "Changes",
-    "Notes"
+    "Auton Notes",
+    "Other Notes",
+    "Defense Notes"
   ],
   "db_url": "https://scouting-226-default-rtdb.firebaseio.com",
   "port": 3001,
   "file_name": "compiled.json",
-  "fb_collection": "wsu",
+  "fb_collection": "iri",
   "python_prefix": "python"
 }

@@ -1,0 +1,102 @@
+match,team,Alliance Color,Scouter Name,Auton Cones Lower,Auton Cubes Lower,Auton Cones Mid,Auton Cubes Mid,Auton Cones Upper,Auton Cubes Upper,Auton Charge Station,Teleop Cones Lower,Teleop Cubes Lower,Teleop Cones Mid,Teleop Cubes Mid,Teleop Cones Upper,Teleop Cubes Upper,Piece Pickup,Charge Station,Under Defense,Other Notes,Defense Rating,Defense Notes,Robot Rating,Auton Points,Teleop Points,Total Points
+70,1 The Juggernauts,R2,David ,0,0,0,0,0,1,Not Attempted,0,1,0,0,0,0,Floor,Engaged,1 - Cannot score under heavy defense,Intake lost too many cubes (can't keep them in intake). Double engage. ,0 - did not play defense,,1.5 - not a strong scorer or defender,6,2,8
+77,1 The Juggernauts,B3,Varsha,0,0,0,0,0,1,Not Attempted,0,4,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,"Intake alliance robot, poor driving and intaking, stays still under weak defense ",0 - did not play defense,,1.5 - not a strong scorer or defender,6,8,14
+84,1 The Juggernauts,R2,Varsha,0,0,0,0,0,0,Not Attempted,0,3,0,0,0,1,Floor,Engaged,0 - Was not under heavy defense,"Attempted high in auton and didn't let go of cube, slow intaking (cycle time 13s)",0 - did not play defense,,1.5 - not a strong scorer or defender,0,11,11
+69,1188 Ravens,R1,Sanjay,0,0,1,0,0,0,Not Attempted,0,0,2,1,0,0,Floor,Engaged,0 - Was not under heavy defense,"consistent claw issues, jerky movement, had trouble picking up pieces in any orientation ",0 - did not play defense,scoring focused,1.5 - not a strong scorer or defender,4,9,13
+77,1188 Ravens,B2,Sanjay,0,0,0,0,0,1,Not Attempted,2,0,0,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"claw still dropped nearly all their pieces, many opps but didn’t capitalize, didn’t contribute much",0 - did not play defense,didn’t defend ,1.5 - not a strong scorer or defender,6,4,10
+82,1188 Ravens,B1,Sanjay,0,0,0,0,0,0,Not Attempted,2,0,0,0,1,0,Double Substation,Engaged,0 - Was not under heavy defense,"didn’t drop as many cones this time, maneuvered better, still same performance overall stats wise ",0 - did not play defense,didn’t defend,2 - contribute to score or elite defense,0,9,9
+76,1250 Gator-Bots,R2,Athrv,0,0,0,0,1,0,Engaged,2,0,0,0,1,1,Double Substation,Docked,3 - Continues to score normally,"Did shake when hit, but held onto game pieces
+Picks up cones with rollers from top ",2 - prevented some cargo,"Blocking to stop movement in a direction
+At end, hit team bot off charge station- ",2.5 - highly competitive robot,18,14,32
+84,1250 Gator-Bots,R1,David,0,0,0,0,1,0,Engaged,0,2,0,0,1,0,Both,Engaged,0 - Was not under heavy defense,Struggled to get cubes from ground. Cycle time was slow (~20+ seconds). Double engage ,0 - did not play defense,,1.5 - not a strong scorer or defender,18,9,27
+66,201 The FEDS,R3,David ,0,1,0,0,0,0,Engaged,0,4,0,0,0,0,Floor,Engaged,1 - Cannot score under heavy defense,Part of robot broke. Tripe engage. Got blocked off from pieces easily.,0 - did not play defense,,1.5 - not a strong scorer or defender,15,8,23
+76,201 The FEDS,B1,David ,0,1,0,0,0,0,Not Attempted,0,4,0,0,0,0,Floor,Not Attempted,1 - Cannot score under heavy defense,11 second cycle. Easy to knock cube out of intake. Intake had hard time collecting cubes sometimes ,1 - ineffective defense,Gave away penalties by pinning,1.5 - not a strong scorer or defender,3,8,11
+82,201 The FEDS,R3,David ,0,1,0,0,0,0,Not Attempted,0,5,0,0,0,0,Floor,Engaged,0 - Was not under heavy defense,Can't do anything above low. Fast cycle and robot (~15 seconds). Double engage ,0 - did not play defense,,1.5 - not a strong scorer or defender,3,10,13
+70,217 ThunderChickens,R3,Pranav Maringanti,0,0,0,0,0,1,Engaged,0,0,0,0,4,1,Double Substation,Not Attempted,2 - Scoring impacted by defense,"Always accurate, fast cargo loading, carried the match and is slightly effected by defense ",0 - did not play defense,,2.5 - highly competitive robot,18,25,43
+75,217 ThunderChickens,B1,Pranav Maringanti,0,0,0,0,0,1,Engaged,0,0,0,0,5,1,Double Substation,Engaged,3 - Continues to score normally,"100% accurate, never drops cargo, invounarable to defense, pushes through everytjing",0 - did not play defense,,2.5 - highly competitive robot,18,30,48
+80,217 ThunderChickens,B1,Pranav Maringanti,0,0,0,0,0,1,Engaged,0,0,0,0,2,1,Both,Docked,0 - Was not under heavy defense,"Very fast picking up mech, accurate and always goes for top pole.",0 - did not play defense,,2.5 - highly competitive robot,18,15,33
+71,247 Da Bears,R3,Reajul,0,0,0,0,0,0,Engaged,0,3,0,0,0,0,Double Substation,Engaged,3 - Continues to score normally,"Almost tipped over getting off station, pushed passed robots trying to block it,robot bumps barriers",0 - did not play defense,"Did not play any defense, focused on getting cubes from substation, dropped cubes during intake",2 - contribute to score or elite defense,12,6,18
+78,247 Da Bears,R1,Reajul ,0,0,0,0,0,0,Engaged,2,0,0,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Tipped over by another robot, fast at taking in cubes from substation, was able to dodge most times",0 - did not play defense,Only focused on scoring cubes,2 - contribute to score or elite defense,12,4,16
+70,2851 Crevolution,B1,Varsha,0,1,0,0,0,0,Not Attempted,1,1,0,0,0,0,Floor,Engaged,1 - Cannot score under heavy defense,"Did not try to get out of being defended on, punctured two cubes",0 - did not play defense,,1 - does not contribute much to scoring,3,4,7
+75,2851 Crevolution,B2,Varsha ,0,1,0,0,0,0,Not Attempted,0,2,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,"Robot stopped at 95s, slow at intaking, fast robot but robot collided with wall multiple times",0 - did not play defense,,1.5 - not a strong scorer or defender,3,4,7
+81,2851 Crevolution,R3,Thanush,0,0,0,0,0,0,Not Attempted,0,1,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,"robot moved fast and scored cubes but knocked down team robots and was inactive for rest of match
+",0 - did not play defense,robot was inactive for most of the match and did not play any defense,1.5 - not a strong scorer or defender,0,2,2
+68,2960 Automation Nation,B3,Varsha,0,0,0,0,0,0,Engaged,0,0,1,0,4,1,Floor,Engaged,0 - Was not under heavy defense,"Cycle time 8s, auto balance & failed to score cube high in auton, picks cubes laying down in any way",0 - did not play defense,,2 - contribute to score or elite defense,12,28,40
+76,2960 Automation Nation,B2,Varsha,0,0,0,0,0,1,Engaged,0,0,0,0,4,0,Floor,Engaged,3 - Continues to score normally,"Auto balance in auton, handles defense by swerving around well, multiple failed intaking attempts",0 - did not play defense,,2 - contribute to score or elite defense,18,20,38
+81,2960 Automation Nation,R1,Varsha,0,0,0,0,0,1,Engaged,0,5,0,0,2,0,Floor,Not Attempted,0 - Was not under heavy defense,"Able to dodge their alliance colliding, almost tipped over when climbing and auto balance in auton",0 - did not play defense,,2.5 - highly competitive robot,18,20,38
+69,4130 The Blue Devils,B2,Shamanth,0,0,0,0,1,0,Docked,0,0,0,0,3,1,Both,Not Attempted,0 - Was not under heavy defense,"TOO WIDE TO GO THROUGH THE AREA NEXT TO CHARGE STATION
+Shut off right before endgame idk why
+",0 - did not play defense,"Cannot, too tippy",1.5 - not a strong scorer or defender,14,20,34
+74,4130 The Blue Devils,R3,Shamanth,0,0,0,0,1,0,Docked,0,1,0,0,3,1,Floor,Docked,0 - Was not under heavy defense,"Great scorer everybot, but tippy drivetrain(little but not extremely concerning)
+Not great at engag",0 - did not play defense,,2 - contribute to score or elite defense,14,22,36
+71,469 Las Guerrillas,R2,Alan Zhang,0,0,0,0,1,0,Not Attempted,1,0,0,0,1,3,Both,Not Attempted,0 - Was not under heavy defense,Start Right Died at end of match almost did cone and cube autonomous. ,1 - ineffective defense,,2.5 - highly competitive robot,6,22,28
+78,469 Las Guerrillas,B3,Alan Zhang,0,0,0,0,2,0,Not Attempted,0,3,0,0,0,1,Floor,Not Attempted,1 - Cannot score under heavy defense,Start left. Struggled to pick up cubes under defense.,1 - ineffective defense,,2.5 - highly competitive robot,12,11,23
+72,4776 S.C.O.T.S. Bots,B2,Shamanth ,1,0,0,0,0,0,Not Attempted,1,1,0,0,0,1,Both,Engaged,0 - Was not under heavy defense,"Time consuming and unreliable arm
+Engages decently well
+Little tippy
+RAMMED OWN TEAMMATE",1 - ineffective defense,,1.5 - not a strong scorer or defender,3,9,12
+78,4776 S.C.O.T.S. Bots,B1,Shamanth,0,0,0,0,1,0,Not Attempted,0,0,0,0,2,0,Double Substation,Engaged,0 - Was not under heavy defense,KNOCKED OVER OPPONENT ROVOT AND GOT RED CARD ,1 - ineffective defense,KNOCKED OVER OPPONENT EED CARD,1.5 - not a strong scorer or defender,6,10,16
+74,5436 Cyber Cats,B3,Reajul,0,0,0,0,1,0,Engaged,1,2,0,0,2,1,Floor,Engaged,3 - Continues to score normally,"Dodges robot and also pushes past, fast scoring and intake. robot bumps into barriers sometimes",2 - prevented some cargo,"focused on taking in game peices from the field, was able to stop other teams from taking it ",2.5 - highly competitive robot,18,21,39
+79,5436 Cyber Cats,B3,Reajul ,0,0,0,0,1,0,Engaged,0,0,0,0,3,2,Double Substation,Engaged,3 - Continues to score normally,"Pushes and dodges other robots, quick at scoring and intake",0 - did not play defense,Focused on taking in game pieces and dodged others ,2.5 - highly competitive robot,18,25,43
+71,5498 The Wired Devils,R1,Pranav Maringanti,0,0,0,0,1,0,Not Attempted,0,0,0,0,1,0,Both,Engaged,0 - Was not under heavy defense,"Time to load in substation, 100% accuracy on top pole, foldable claw, almost got tipped over",0 - did not play defense,,2 - contribute to score or elite defense,6,5,11
+83,5498 The Wired Devils,R1,Pranav Maringanti,0,0,0,0,1,0,Not Attempted,0,0,0,0,4,1,Floor,Failed,2 - Scoring impacted by defense,"Foldable Claw arm, 100% accuracy when dropping cargo, impacted by defrnse",0 - did not play defense,,2.5 - highly competitive robot,6,25,31
+67,573 Mech Warriors,R2,David l,0,0,0,1,1,0,Not Attempted,0,1,0,0,1,2,Both,Engaged,0 - Was not under heavy defense,"Fast robot, double engage. Good auton
+",0 - did not play defense,,2.5 - highly competitive robot,10,17,27
+72,573 Mech Warriors,B3,David ,0,0,0,0,1,0,Engaged,1,1,0,0,1,1,Floor,Engaged,0 - Was not under heavy defense,~15 second cycle time. ~5 seconds spent lining up at chute. Fast robot. Switched from cube to cone,0 - did not play defense,,2 - contribute to score or elite defense,18,14,32
+81,573 Mech Warriors,B2,David ,0,0,0,0,1,0,Not Attempted,0,2,0,0,1,2,Both,Engaged,0 - Was not under heavy defense,Does piece auton failed. Cones from sub cubes from ground. Fast cycle (14 seconds). Double engage,0 - did not play defense,,2 - contribute to score or elite defense,6,19,25
+68,6152 Robo-Falcons,B2,Pranav Maringanti,0,0,0,0,0,1,Not Attempted,1,0,0,0,0,1,Double Substation,Engaged,0 - Was not under heavy defense,"Cargo falls out while picking up, slams arm on wall, shaky and almost tipped over, top pole accuracy",0 - did not play defense,,1.5 - not a strong scorer or defender,6,7,13
+74,6152 Robo-Falcons,R2,Pranav Maringanti,0,0,0,0,1,0,Not Attempted,0,0,0,0,1,2,Double Substation,Failed,3 - Continues to score normally,"Station failed because of alliance, 100% accurate when going for cargo top, ",0 - did not play defense,,2 - contribute to score or elite defense,6,15,21
+80,6152 Robo-Falcons,B3,krrish ,0,0,0,0,1,0,Not Attempted,0,0,1,2,0,0,Double Substation,Engaged,0 - Was not under heavy defense,"prefers cubes over cones
+upright cone cycling
+medium and somewhat reliable cycling
+",0 - did not play defense,no defense,2.5 - highly competitive robot,6,9,15
+72,6344 Yale Jiggawattz,R3,Thanush,0,0,0,1,0,0,Not Attempted,0,0,0,1,1,2,Floor,Failed,0 - Was not under heavy defense,robot moved fast and picked up lots of cubes on the floor as well as picking cones on their sides,2 - prevented some cargo,moved around the field and blocked a few robots from scoring ,2 - contribute to score or elite defense,4,18,22
+75,68 Truck Town Thunder,R1,Jeffrey ,0,0,0,0,0,0,Engaged,0,5,0,0,0,1,Floor,Engaged,0 - Was not under heavy defense,"Platform performance: good 
+Push alliance members no
+Triple climbs: no
+Pick up mostly: floor cubes
+
+",0 - did not play defense,"Speed of intake : pretty fast 
+Defense: no
+Good for scoring lower nodes ",2 - contribute to score or elite defense,12,15,27
+68,7188 SaddleBots,R1,Alan Zhang,0,0,0,0,1,0,Not Attempted,0,0,0,0,2,1,Double Substation,Failed,0 - Was not under heavy defense,Start left. A slower robot,2 - prevented some cargo,Pinned a robot to the wall,2 - contribute to score or elite defense,6,15,21
+73,7188 SaddleBots,B3,Alan Zhang ,0,0,0,0,1,0,Not Attempted,0,0,0,0,2,1,Double Substation,Docked,0 - Was not under heavy defense,Start left. Picked up upright cones. Seemed faster than last time.,0 - did not play defense,,2 - contribute to score or elite defense,6,15,21
+78,7188 SaddleBots,R3,David ,0,0,0,0,1,0,Not Attempted,1,0,0,0,1,1,Double Substation,Failed,1 - Cannot score under heavy defense,13 second cycle. Robot super unbalanced. Robot is too slow to outmaneuver opponents.,0 - did not play defense,,1.5 - not a strong scorer or defender,6,12,18
+68,8115 Platinum Peacocks,R2,Shamanth ,0,0,1,0,0,0,Not Attempted,0,0,0,1,1,1,Double Substation,Not Attempted,0 - Was not under heavy defense,"Couldn’t move off of cone it placed in auton
+Long cycle time
+Only a 2 cuz of defense potential",2 - prevented some cargo,Blocked blue robot well across the middle,2 - contribute to score or elite defense,4,13,17
+73,8115 Platinum Peacocks,R2,Shamanth,0,0,1,0,0,0,Not Attempted,0,0,1,2,1,0,Double Substation,Not Attempted,2 - Scoring impacted by defense,Long cycle time due to slow arm extension ,0 - did not play defense,,1.5 - not a strong scorer or defender,4,14,18
+66,818 The Steel Armadillos,B1,Thanush,0,0,0,0,0,1,Not Attempted,1,0,2,0,2,1,Double Substation,Engaged,3 - Continues to score normally,"robot moved fast and picked many cones upright and sideways, as well as cubes",2 - prevented some cargo,"moved around and blocked some robots from scoring, but mainly offensive",2 - contribute to score or elite defense,6,23,29
+72,818 The Steel Armadillos,R1,Sanjay,1,0,0,0,0,0,Docked,0,0,4,0,0,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"had trouble with claw gripping pieces from station, took time on cone placement, overall perform wel",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,11,12,23
+78,818 The Steel Armadillos,B2,Sanjay,0,0,0,0,1,0,Not Attempted,1,0,0,0,3,0,Double Substation,Engaged,0 - Was not under heavy defense,"fixed a lot of their previous issues, cycle time and intake great, claw gripped cones upright good",0 - did not play defense,scoring focused,2 - contribute to score or elite defense,6,17,23
+72,8774 REST Robotics,B1,Jeffrey ,0,0,0,0,1,0,Not Attempted,0,0,1,1,0,1,Both,Not Attempted,0 - Was not under heavy defense,"Platform performance: no
+Push alliencd member: no
+Triple climbs: no
+Pick up mostly:  both subst/floor",0 - did not play defense,"Speed of intake: slow 
+Defense: no
+Robot still half broken ",1 - does not contribute much to scoring,6,11,17
+73,9204 Hidden Treasures,B1,Reajul,0,1,0,0,0,0,Not Attempted,1,1,0,0,0,0,Floor,Not Attempted,0 - Was not under heavy defense,"Uses charging station to push cubes and cone near grid, great driving",3 - prevented significant scoring,"Dodges robots well and defended really well,
+Didn’t get any fouls, prevented major scoring ",2.5 - highly competitive robot,3,4,7
+68,9226 GR Pioneers,R3,Jeffrey ,0,0,0,0,0,1,Not Attempted,0,0,0,0,2,0,Double Substation,Failed,0 - Was not under heavy defense,"Platform performance: bad
+Push alliance members no
+Triple climbs: no
+Pick up mostly: cones 
+
+",0 - did not play defense,"Speed of intake: slow missed like 5 times in a row 
+Defense: no
+Almost tipped ",1 - does not contribute much to scoring,6,10,16
+74,9226 GR Pioneers,B1,Jeffrey ,0,0,0,0,0,1,Not Attempted,0,0,0,0,1,0,Double Substation,Not Attempted,2 - Scoring impacted by defense,"Platform performance: no
+Push alliance members no
+Triple climbs:  no
+Pick up mostly: cone substation 
+",0 - did not play defense,"Speed of intake: slow 
+Defense:no 
+Robot stopped moving ",1 - does not contribute much to scoring,6,5,11
+80,9226 GR Pioneers,B2,Jeffrey ,0,0,0,0,0,1,Not Attempted,0,0,1,0,2,0,Double Substation,Not Attempted,0 - Was not under heavy defense,"Platform performance: none
+Push alliance members no
+Triple climbs: no 
+Pick up mostly: cones sub
+
+",0 - did not play defense,"Intake speed: slow 
+Defense: no 
+Doesn't get many peices since slow ",1.5 - not a strong scorer or defender,6,13,19
