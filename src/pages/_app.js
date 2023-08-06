@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 import useClasses from "@/components/useClasses";
-import {Alert, createTheme, Snackbar, ThemeProvider, Typography} from "@mui/material";
+import {Alert, createTheme, Snackbar, ThemeProvider, Typography, CssBaseline} from "@mui/material";
 import "@/styles/globals.css"
 import "@/styles/App.css"
 
@@ -20,6 +20,7 @@ export default function MyApp({ Component, pageProps }) {
     
     return (
         <ThemeProvider theme={darkTheme}>
+            <CssBaseline/>
             <Navbar/>
             <Component {...pageProps} />
             <footer className="footer">
