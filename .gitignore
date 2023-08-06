@@ -1,8 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-.idea/workspace.xml
-.idea/discord.xml
-
 # dependencies
 /node_modules
 /.pnp
@@ -11,28 +8,45 @@
 # testing
 /coverage
 
-.env
+# next.js
+/.next/
+/out/
+
 # production
 /build
 
 # misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-.env
+*.pem
+
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-src/api/duplicates-msc
-src/api/duplicates-pit
-src/api/duplicates-wsu
-src/api/scouting-msc
-src/api/scouting-troy-sat
-src/api/scouting-troy-sun
-src/api/scouting-worlds
-src/api/scouting-wsu
-src/api/duplicates
-node_modules
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+
+src/data/compiled/compiled-pit/*
+!src/data/compiled/compiled-pit/compiled-pit.json
+src/data/compiled/compiled-scouting/*
+!src/data/compiled/compiled-scouting/compiled.json
+src/data/compiled/csv/*
+!src/data/compiled/csv/compiled.csv
+
+src/data/raw/duplicates/*
+!src/data/raw/duplicates/
+src/data/raw/duplicates-pit/*
+!src/data/raw/duplicates-pit/
+src/data/raw/pit/*
+!src/data/raw/pit/
+src/data/raw/scouting/*
+!src/data/raw/scouting/

@@ -98,16 +98,8 @@ export default function Navbar() {
                     </Typography>
                     <Box sx={{flexGrow: 1, display: {xs: "none", md: "flex"}}}>
                         <Button
-                            sx={{my: 2, color: "info", display: "block"}}
                             onClick={() => {
-                                window.location.href = "/upload";
-                            }}
-                        >
-                            Upload Data
-                        </Button>
-                        <Button
-                            onClick={() => {
-                                window.location.href = "/handle";
+                                window.location.href = "/refactor";
                             }}
                             sx={{my: 2, color: "info", display: "block"}}
                         >
