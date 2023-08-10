@@ -11,7 +11,7 @@ import {
 	LineChart,
 	Cell,
 } from "recharts";
-import jsonData from "../data/worlds.json";
+import jsonData from "../data/compiled/compiled-scouting/compiled.json";
 import { ResponsiveContainer } from "recharts";
 import React, { useState } from "react";
 import { CircularProgressbar } from "react-circular-progressbar";
