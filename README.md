@@ -8,6 +8,8 @@ Note this app is pairs with the [SharkScout PWA](https://github.com/arnavs-0/Sha
 
 ** Please Note: Documentation is still in the works. If you have any questions feel free to open an issue **
 
+**There Appears to be a Bug with Git renaming `viewer.js` to `Viewer.js,` if you are having issues with the viewer, please rename the file to `viewer.js`**
+
 ## Required Tools
 
 - [Node.js](https://nodejs.org) version 14 LTS or greater (tested on Node.js 18.17.0)
