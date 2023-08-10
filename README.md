@@ -1,75 +1,39 @@
-# 226 Scouting Database + API
+<img src="https://yt3.ggpht.com/ytc/AKedOLS6CuwrrOvURWxJNMZt0KjWetOmkT6MJIP8DuGItQ=s900-c-k-c0x00ffffff-no-rj" align="right" width="150" height="150"/>
 
-## Description and Installation Instructions in Progress
-### SharkScout PWA Coming Soon 🦈
+# SharkScout PWA
 
-## Getting Started with Create React App
+SharkScout is a configurable PWA FRC robot scouting application for FRC team 226. It is a fast offline-first application that allows you to scout robots and teams without having to be connected to the internet by generating QRCodes and submitting it to the Backend Database. It also has the ability to submit data to Firebase when internet connection is available.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Configuring and Creating is Very Fast via the Customizable Options available through a JSON Schema
 
-## Available Scripts
+Note this app is pairs with the [SharkScout PWA](https://github.com/arnavs-0/SharkScout-PWA) which is a server that stores the data by scanning QR codes.
 
-In the project directory, you can run:
+** Please Note: Documentation is still in the works. If you have any questions feel free to open an issue **
 
-### `yarn start`
+## Required Tools
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Node.js](https://nodejs.org) version 14 LTS or greater (tested on Node.js 18.17.0)
+- [Yarn](https://yarnpkg.com) version 1.22 or greater (tested on Yarn 1.22.17)
+- [Git](https://git-scm.com) version 2.22 or greater (tested on Git 2.22.0)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Setup Environment
 
-### `yarn test`
+_Must have created a Firebase Project_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. `git clone https://github.com/arnavs-0/SharkScout-Backend.git`
+2. `cd SharkScout-Backend`
+3. `yarn`
+4. In `src/data/compiled` ensure that the following directories exist: `compiled-pit`, `compiled-scouting`, `csv`
+   1. In `compiled-pit` and `compiled-scouting` create a `compiled.json` file with the following schema:
+      ```json
+      []
+      ```
+      This will populate with all the data that is scanned into one file
+    2. In `csv` create a `compiled.csv` file
+5. In `src/data/raw` ensure that the following directories exist: `scouting`, `scouting-pit`, `duplicates`, `duplicates-pit`, each item scanned will have an individual file placed into these directories
+6.  In `src/data/python/config.json` change the config file to the correct values
+7.  In the root dir run `yarn run dev` to start the app backend.
+8.  Go to `localhost:3000` to view the app
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Note: In the event of errors for parsing values, you might need to wait for the backend to complete parsing, the frontend loads faster than the backend*
