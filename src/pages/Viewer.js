@@ -368,7 +368,7 @@ function GroupChart({ data }) {
 						<CartesianGrid strokeDasharray="3 3" />
 						<XAxis dataKey="team" />
 						<YAxis />
-						<Tooltip active={true} />
+						<Tooltip contentStyle={{backgroundColor: "black"}} active />
 						<Legend />
 						<Bar
 							dataKey="avgAutonPoints"
@@ -378,6 +378,7 @@ function GroupChart({ data }) {
 						>
 							{sortedData.map((entry, index) => (
 								<Cell
+									key={`cell-${index}`}
 									fill={
 										sortedData[index].team === selectedTeam.team
 											? "#178541"
@@ -394,6 +395,7 @@ function GroupChart({ data }) {
 						>
 							{sortedData.map((entry, index) => (
 								<Cell
+									key={`cell-${index}`}
 									fill={
 										sortedData[index].team === selectedTeam.team
 											? "#262194"
@@ -415,7 +417,7 @@ function GroupChart({ data }) {
 
 				<Grid container spacing={3}>
 					<Grid item xs>
-						<Typography textAlign="center" variant="h6">
+						<Typography color="black" textAlign="center" variant="h6">
 							Game Piece
 						</Typography>
 						<ResponsiveContainer width="100%" aspect={3}>
@@ -433,7 +435,7 @@ function GroupChart({ data }) {
 								<CartesianGrid strokeDasharray="3 3" />
 								<XAxis dataKey="team" />
 								<YAxis />
-								<Tooltip />
+								<Tooltip contentStyle={{backgroundColor: "black"}} />
 								<Legend />
 								<Bar
 									dataKey="avgTotalCones"
@@ -443,6 +445,7 @@ function GroupChart({ data }) {
 								>
 									{sortByPieces.map((entry, index) => (
 										<Cell
+											key={`cell-${index}`}
 											fill={
 												sortByPieces[index].team === selectedTeam.team
 													? "#916b01"
@@ -459,6 +462,7 @@ function GroupChart({ data }) {
 								>
 									{sortByPieces.map((entry, index) => (
 										<Cell
+											key={`cell-${index}`}
 											fill={
 												sortByPieces[index].team === selectedTeam.team
 													? "#060078"
@@ -471,7 +475,7 @@ function GroupChart({ data }) {
 						</ResponsiveContainer>
 					</Grid>
 					<Grid item xs>
-						<Typography textAlign="center" variant="h6">
+						<Typography color="black" textAlign="center" variant="h6">
 							Piece Placement
 						</Typography>
 						<ResponsiveContainer width="100%" aspect={3}>
@@ -489,7 +493,7 @@ function GroupChart({ data }) {
 								<CartesianGrid strokeDasharray="3 3" />
 								<XAxis dataKey="team" />
 								<YAxis />
-								<Tooltip />
+								<Tooltip contentStyle={{backgroundColor: "black"}} />
 								<Legend />
 								<Bar
 									dataKey="avgLow"
@@ -499,6 +503,7 @@ function GroupChart({ data }) {
 								>
 									{sortedHeight.map((entry, index) => (
 										<Cell
+											key={`cell-${index}`}
 											fill={
 												sortedHeight[index].team === selectedTeam.team
 													? "#a67a02"
@@ -516,6 +521,7 @@ function GroupChart({ data }) {
 								>
 									{sortedHeight.map((entry, index) => (
 										<Cell
+											key={`cell-${index}`}
 											fill={
 												sortedHeight[index].team === selectedTeam.team
 													? "#035296"
@@ -532,6 +538,7 @@ function GroupChart({ data }) {
 								>
 									{sortedHeight.map((entry, index) => (
 										<Cell
+											key={`cell-${index}`}
 											fill={
 												sortedHeight[index].team === selectedTeam.team
 													? "#262194"
@@ -559,13 +566,14 @@ function GroupChart({ data }) {
 							fontWeight="bold"
 							textAlign="center"
 							variant="h5"
+							color="black"
 						>
 							Robot Info for Team {selectedTeam.team}
 						</Typography>
 
 						<Grid container spacing={3}>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="h6">
+								<Typography color="black" textAlign="center" variant="h6">
 									Match Trends
 								</Typography>
 								<LineChart
@@ -582,7 +590,7 @@ function GroupChart({ data }) {
 									<CartesianGrid strokeDasharray="3 3" />
 									<XAxis dataKey="match" />
 									<YAxis />
-									<Tooltip />
+									<Tooltip contentStyle={{backgroundColor: "black"}} />
 									<Legend />
 									<Line type="monotone" dataKey="Auton" stroke="#00adfc" />
 									<Line type="monotone" dataKey="Teleop" stroke="#00fc15" />
@@ -590,7 +598,7 @@ function GroupChart({ data }) {
 								</LineChart>
 							</Grid>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="h6">
+								<Typography color="black" textAlign="center" variant="h6">
 									Piece Placement
 								</Typography>
 								<LineChart
@@ -607,7 +615,7 @@ function GroupChart({ data }) {
 									<CartesianGrid strokeDasharray="3 3" />
 									<XAxis dataKey="match" />
 									<YAxis />
-									<Tooltip />
+									<Tooltip contentStyle={{backgroundColor: "black"}} />
 									<Legend />
 									<Line
 										type="monotone"
@@ -622,7 +630,7 @@ function GroupChart({ data }) {
 								</LineChart>
 							</Grid>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="h6">
+								<Typography color="black" textAlign="center" variant="h6">
 									Placement Level
 								</Typography>
 								<LineChart
@@ -639,7 +647,7 @@ function GroupChart({ data }) {
 									<CartesianGrid strokeDasharray="3 3" />
 									<XAxis dataKey="match" />
 									<YAxis />
-									<Tooltip />
+									<Tooltip contentStyle={{backgroundColor: "black"}} />
 									<Legend />
 									<Line type="monotone" dataKey="Total Low" stroke="#00adfc" />
 									<Line
@@ -668,6 +676,7 @@ function GroupChart({ data }) {
 							fontWeight="bold"
 							textAlign="center"
 							variant="subtitle1"
+							color="black"
 						>
 							Match Info
 						</Typography>
@@ -682,7 +691,7 @@ function GroupChart({ data }) {
 							paddingBottom="15px"
 						>
 							<Grid item xs="auto" style={{ textAlign: "center" }}>
-								<Typography textAlign="center" variant="p">
+								<Typography color="black" textAlign="center" variant="p">
 									Auton Docked
 								</Typography>
 								<div style={{ width: 75, height: 75 }}>
@@ -695,7 +704,7 @@ function GroupChart({ data }) {
 								</div>
 							</Grid>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="p">
+								<Typography color="black" textAlign="center" variant="p">
 									Auton Engage
 								</Typography>
 								<div style={{ width: 75, height: 75 }}>
@@ -708,7 +717,7 @@ function GroupChart({ data }) {
 								</div>
 							</Grid>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="p">
+								<Typography color="black" textAlign="center" variant="p">
 									Teleop Docked
 								</Typography>
 								<div style={{ width: 75, height: 75 }}>
@@ -721,7 +730,7 @@ function GroupChart({ data }) {
 								</div>
 							</Grid>
 							<Grid item xs="auto">
-								<Typography textAlign="center" variant="p">
+								<Typography color="black" textAlign="center" variant="p">
 									Teleop Engage
 								</Typography>
 								<div style={{ width: 75, height: 75 }}>
@@ -795,6 +804,7 @@ function GroupChart({ data }) {
 						textAlign="center"
 						variant="h5"
 						fontWeight="bold"
+						color="black"
 					>
 						Team Averages
 					</Typography>

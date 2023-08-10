@@ -1,38 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="https://yt3.ggpht.com/ytc/AKedOLS6CuwrrOvURWxJNMZt0KjWetOmkT6MJIP8DuGItQ=s900-c-k-c0x00ffffff-no-rj" align="right" width="150" height="150"/>
 
-## Getting Started
+# SharkScout PWA
 
-First, run the development server:
+SharkScout is a configurable PWA FRC robot scouting application for FRC team 226. It is a fast offline-first application that allows you to scout robots and teams without having to be connected to the internet by generating QRCodes and submitting it to the Backend Database. It also has the ability to submit data to Firebase when internet connection is available.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Configuring and Creating is Very Fast via the Customizable Options available through a JSON Schema
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Note this app is pairs with the [SharkScout PWA](https://github.com/arnavs-0/SharkScout-PWA) which is a server that stores the data by scanning QR codes.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+** Please Note: Documentation is still in the works. If you have any questions feel free to open an issue **
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Required Tools
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [Node.js](https://nodejs.org) version 14 LTS or greater (tested on Node.js 18.17.0)
+- [Yarn](https://yarnpkg.com) version 1.22 or greater (tested on Yarn 1.22.17)
+- [Git](https://git-scm.com) version 2.22 or greater (tested on Git 2.22.0)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Setup Environment
 
-## Learn More
+_Must have created a Firebase Project_
 
-To learn more about Next.js, take a look at the following resources:
+1. `git clone https://github.com/arnavs-0/SharkScout-Backend.git`
+2. `cd SharkScout-Backend`
+3. `yarn`
+4. In `src/data/compiled` ensure that the following directories exist: `compiled-pit`, `compiled-scouting`, `csv`
+   1. In `compiled-pit` and `compiled-scouting` create a `compiled.json` file with the following schema:
+      ```json
+      []
+      ```
+      This will populate with all the data that is scanned into one file
+    2. In `csv` create a `compiled.csv` file
+5. In `src/data/raw` ensure that the following directories exist: `scouting`, `scouting-pit`, `duplicates`, `duplicates-pit`, each item scanned will have an individual file placed into these directories
+6.  In `src/data/python/config.json` change the config file to the correct values
+7.  In the root dir run `yarn run dev` to start the app backend.
+8.  Go to `localhost:3000` to view the app
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+*Note: In the event of errors for parsing values, you might need to wait for the backend to complete parsing, the frontend loads faster than the backend*

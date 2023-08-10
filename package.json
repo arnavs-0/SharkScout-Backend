@@ -1,6 +1,9 @@
 {
-  "name": "backend-next",
-  "version": "0.1.0",
+  "name": "sharkscout-backend",
+  "version": "1.0.0",
+  "description": "SharkScout Backend",
+  "author": "Arnav Shah",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
