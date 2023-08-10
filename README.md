@@ -18,8 +18,6 @@ Note this app is pairs with the [SharkScout PWA](https://github.com/arnavs-0/Sha
 
 ## Setup Environment
 
-_Must have created a Firebase Project_
-
 1. `git clone https://github.com/arnavs-0/SharkScout-Backend.git`
 2. `cd SharkScout-Backend`
 3. `yarn`
