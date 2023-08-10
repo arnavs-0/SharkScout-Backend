@@ -1,10 +1,8 @@
 <img src="https://yt3.ggpht.com/ytc/AKedOLS6CuwrrOvURWxJNMZt0KjWetOmkT6MJIP8DuGItQ=s900-c-k-c0x00ffffff-no-rj" align="right" width="150" height="150"/>
 
-# SharkScout PWA
+# SharkScout Backend
 
 SharkScout is a configurable PWA FRC robot scouting application for FRC team 226. It is a fast offline-first application that allows you to scout robots and teams without having to be connected to the internet by generating QRCodes and submitting it to the Backend Database. It also has the ability to submit data to Firebase when internet connection is available.
-
-Configuring and Creating is Very Fast via the Customizable Options available through a JSON Schema
 
 Note this app is pairs with the [SharkScout PWA](https://github.com/arnavs-0/SharkScout-PWA) which is a server that stores the data by scanning QR codes.
 
@@ -24,10 +22,7 @@ _Must have created a Firebase Project_
 2. `cd SharkScout-Backend`
 3. `yarn`
 4. In `src/data/compiled` ensure that the following directories exist: `compiled-pit`, `compiled-scouting`, `csv`
-   1. In `compiled-pit` and `compiled-scouting` create a `compiled.json` file with the following schema:
-      ```json
-      []
-      ```
+   1. In `compiled-pit` and `compiled-scouting` create a `compiled.json` file with the following: `[]`
       This will populate with all the data that is scanned into one file
     2. In `csv` create a `compiled.csv` file
 5. In `src/data/raw` ensure that the following directories exist: `scouting`, `scouting-pit`, `duplicates`, `duplicates-pit`, each item scanned will have an individual file placed into these directories
